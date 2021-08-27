@@ -4,7 +4,7 @@ description: >-
   governance
 ---
 
-# The three pillars
+# The Three Pillars
 
 A Garden has three main pillars:
 
@@ -12,13 +12,13 @@ A Garden has three main pillars:
 2. A decentralised social contract \(Community Covenant\)
 3. A dispute resolution protocol \(Celeste\)
 
-Taken together, they fulfill the promise of effective community-driven on-chain governance, not tomorrow, but today.
+Taken together, they fulfill the promise of effective community-driven, on-chain governance. Not tomorrow, but today.
 
 ## **Conviction voting \(to allocate funds\)**
 
-_Conviction voting is the heart of a Garden._ It allows folks to signal their preferences continuously rather than forcing them to “make a decision.” From the perspective of a community member, the UX is simplified to just showing up and supporting things you care about.
+_Conviction voting is the heart of a Garden._ It allows folks to signal their preferences continuously rather than forcing them to “make a decision.” From the perspective of a community member, this is as easy as just showing up and supporting the things you care about.
 
-Under conviction voting, **the majority doesn’t need to achieve consensus on everything.** As such, we get real [proportional representation](https://en.wikipedia.org/wiki/Proportional_representation#Advantages_and_disadvantages). Community members can propose and support things they care about without fear that a whale will vote them down. In fact, there is no downvoting. **People with large stakes and strong opinions can’t suppress the community.**. Rather than relying entirely on majority rule decision-making, resource allocation decisions are regulated by staking on proposals to accumulate conviction over time. This allows resources to be allocated fairly while minimizing the political and divisive process of coming to consensus on a single course of action.[**1**](garden-framework.md#notes)
+Under conviction voting, **the majority doesn’t need to achieve consensus on everything.** As such, we get real [proportional representation](https://en.wikipedia.org/wiki/Proportional_representation#Advantages_and_disadvantages). Community members can propose and support things they care about without fear that a whale will vote them down. In fact, there is no downvoting. **People with large stakes and strong opinions can’t suppress the community.**. Rather than relying entirely on majority rule decision-making, resource allocation decisions are regulated by staking on proposals to accumulate conviction over time. This allows resources to be allocated fairly while minimizing the political and divisive process of coming to consensus on a single course of action.<sup>[**1**](garden-framework.md#notes)</sup>
 
 **Proposals simply need enough support to pass – the fewer funds they ask for, the less support required.** This means there’s a real sense in which everyone has a voice. The only thing token holders have to think about is whether or not they support something. _That’s it._
 
@@ -26,11 +26,11 @@ Under this framework, **many divergent initiatives can be proposed and run in pa
 
 One underrated benefit of this is that it allows the DAO to grow as a [headless brand](https://otherinter.net/web3/headless-brands/), iterating through cycles of [divergence and convergence](https://otherinter.net/web3/market-protocol-fit/), and continuously reflecting the preferences and interests of token holders \(a true living organisation!\).
 
-In sum, by giving small token holders the agency to contribute, **conviction voting helps lay the foundation for a fiercely loyal community**, solving the problems associated with governance attacks, low participation, and the overall inability to effectively prioritise and decide when there are many potential options all competing for consideration at once.
+In sum, by giving small token holders the agency to contribute, **Conviction Voting helps lay the foundation for a fiercely loyal community**, solving the problems associated with governance attacks, low participation, and the overall inability to effectively prioritise and decide when there are many potential options all competing for consideration at once.
 
 ## **Community Covenant \(to encode values\)**
 
-The second pillar of a Garden is the community covenant.[2](garden-framework.md#notes) You can think of it as a constitution or **decentralised social contract** of sorts.
+The second pillar of a Garden is the community covenant.<sup>[2](garden-framework.md#notes)</sup> You can think of it as a constitution or **decentralised social contract** of sorts.
 
 On a practical level, a covenant is a document, stored on [IPFS](https://hackmd.io/KCS70fPRR9O0iXOLYCzK1w?view), which explains what a DAO is about in plain English. It establishes values, rules, and customs. And is used to protect the DAO from malicious actors _without_ sacrificing the agency of its members.
 
@@ -83,4 +83,3 @@ With these building blocks, we now have essentially limitless abilities for comp
 4. It’s important to note that Celeste can be used to rule on disputes arising over _any_ human readable English document that allows for the possibility for subjective outcomes, not just a Covenant. For example, you could use it to decide on whether work, as outlined in a funding proposal, was actually completed or not.
 
 5. Celeste acts as a check on the power of _all_ individuals – even highly-trusted community members. In doing so, it protects the long-term integrity of the DAO.
-
