@@ -36,7 +36,7 @@ On a practical level, a covenant is a document, stored on [IPFS](https://hackmd.
 
 The key idea here is that a covenant allows an organisation’s actions to be governed by a subjective set of rules; rules which are either impossible to encode into smart contracts, or which would otherwise result in a complicated and slow-moving organization.
 
-Take [1Hive’s Covenant](https://ipfs.eth.aragon.network/ipfs/QmfWppqC55Xc7PU48vei2XvVAuH76z2rNFF7JMUhjVM5xV), for example:
+Take [1Hive’s Covenant](https://1hive.org/#/covenant), for example:
 
 > **1Hive is a community of activists seeking to build a future that is more free, fair, open, and humane.**
 >
