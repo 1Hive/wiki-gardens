@@ -1,7 +1,7 @@
 ---
 description: >-
-  Together, these three pillars provide a framework for effective on-chain
-  governance
+  Together, the three pillars of Conviction voting, the Community covenant, and
+  Celeste provide a framework for effective on-chain governance
 ---
 
 # The three pillars

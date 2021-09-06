@@ -12,9 +12,11 @@ Gardens is an initiative by [1Hive](https://about.1hive.org/docs/dao) to create 
 
 Communities can use Gardens to launch their own token or, if they prefer, to import a pre-existing ERC-20 token.
 
-From there, they can use whichever tools they prefer to coordinate: chat rooms, forums, etc. The token will be used as a governance token for deciding how funds are issued and how meta-governance parameters are updated.
+From there, they can use whichever tools they prefer to coordinate: chat rooms, forums, etc. 
 
-In the beginning, it is expected that software-based projects and online communities will create Gardens, but ultimately it is hoped it could be used for any cause in the public domain.
+The token will be used as a governance token for deciding how funds are issued and how meta-governance parameters are updated.
 
-In particular, we believe that community organization techniques that we are developing now, are setting precedents that will be used for municipal / regional governance, voter engagement, and resource allocation in the physical world.
+In the beginning, we expect mainly software-based projects and online communities to create Gardens, but ultimately we hope this framework can be used for any cause in the public domain.
+
+In particular, we believe that the community organization techniques that we are developing now, are setting precedents that will be used for regional governance, voter engagement, and resource allocation in the physical world.
 

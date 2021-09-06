@@ -7,12 +7,10 @@
 ## 🌻 Background
 
 * [The three pillars](background/garden-framework.md)
-* [The multisig problem](background/the-multisig-problem.md)
+* [Solving the multisig problem](background/the-multisig-problem.md)
+* [Solving the funding allocation problem](background/solving-the-funding-allocation-problem.md)
+* [Moving beyond naive coin voting governance](background/moving-beyond-naive-coin-voting-governance.md)
 * [Types of Gardens](background/garden-modes.md)
-
-## 🌾Requirements
-
-* [Honeyswap initial liquidity](requirements/honeyswap.md)
 
 ## On-chain governance
 
@@ -21,6 +19,11 @@
 * [Tao voting](on-chain-governance/tao-voting.md)
 * [Deposits and settlement](on-chain-governance/deposits-and-settlement.md)
 * [Celeste](on-chain-governance/celeste.md)
+
+## Issuance policy
+
+* [Dynamic issuance](issuance-policy/dynamic-issuance.md)
+* [Alternatives](issuance-policy/alternatives.md)
 
 ## Off-chain governance
 
@@ -31,16 +34,15 @@
 * [How to suggest a proposal?](off-chain-governance/how-to-suggest-a-proposal.md)
 * [Proposal template](off-chain-governance/proposal-template.md)
 
-## Issuance policy
-
-* [Dynamic issuance](issuance-policy/dynamic-issuance.md)
-* [Alternatives](issuance-policy/alternatives.md)
-
 ## 🌱 Garden summoners <a id="garden-creators"></a>
 
 * [Create a Garden \(non-technical\)](garden-creators/untitled.md)
 * [Governance incentives for pre-existing token Gardens](garden-creators/byot-garden-wrapping-incentive.md)
 * [Launching on xdai vs arbitrum](garden-creators/launching-on-xdai-vs-arbitrum.md)
+
+## 🌾Requirements
+
+* [Honeyswap initial liquidity](requirements/honeyswap.md)
 
 ## 👩‍🌾 community members
 
