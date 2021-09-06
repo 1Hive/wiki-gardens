@@ -1,7 +1,7 @@
 # Conviction Voting
 
-  
-The Disputable Conviction Voting parameters \(together with the 1hive defaults\) are:
+
+The Conviction Voting parameters \(together with the 1hive defaults\) are:
 
 ```text
   "convictionGrowthHours": 48,
@@ -26,9 +26,10 @@ We can see that there is a minimum amount of conviction that must be reached for
 
 As such, we recommend that implementers take special care in their choice of `spendingLimit` \(% of total funds that can be requested by any one proposal\) and `minimumConviction` \(the minimum conviction required for small proposals to pass\) parameters, as these will have a high impact on your system design.
 
+The `convictionGrowthHours` effectively sets the pace of your Garden. How quickly decisions can be made are affected heavily by this parameter. If you want your DAO's funding scheme to be more agile then a lower value is recommended.  If you prefer to have a more prolongated, assured process then a higher value is better suited.
+
 ### More resources
 
-[Minimum Conviction deep dive.](https://forum.1hive.org/t/cv-params-deep-dive-minimum-conviction-aka-minimum-threshold/4209)  
-[Spending Limit deep dive.](https://forum.1hive.org/t/cv-params-deep-dive-spending-limit-aka-max-ratio-beta/4208)  
-[Coviction Growth deep dive.](https://forum.1hive.org/t/cv-params-deep-dive-conviction-growth-aka-half-life/4207)
-
+[Minimum Conviction](https://forum.1hive.org/t/cv-params-deep-dive-minimum-conviction-aka-minimum-threshold/4209)  
+[Spending Limit](https://forum.1hive.org/t/cv-params-deep-dive-spending-limit-aka-max-ratio-beta/4208)  
+[Coviction Growth](https://forum.1hive.org/t/cv-params-deep-dive-conviction-growth-aka-half-life/4207)

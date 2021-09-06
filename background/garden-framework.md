@@ -4,7 +4,7 @@ description: >-
   Celeste provide a framework for effective on-chain governance
 ---
 
-# The three pillars
+# The Three Pillars
 
 A Garden has three main pillars:
 
@@ -12,13 +12,13 @@ A Garden has three main pillars:
 2. A decentralised social contract \(Community Covenant\)
 3. A dispute resolution protocol \(Celeste\)
 
-Taken together, they fulfill the promise of effective community-driven on-chain governance, not tomorrow, but today.
+Taken together, they fulfill the promise of effective community-driven, on-chain governance. Not tomorrow, but today.
 
 ## **Conviction voting \(to allocate funds\)**
 
-_Conviction voting is the heart of a Garden._ It allows folks to signal their preferences continuously rather than forcing them to “make a decision.” From the perspective of a community member, the UX is simplified to just showing up and supporting things you care about.
+_Conviction voting is the heart of a Garden._ It allows folks to signal their preferences continuously rather than forcing them to “make a decision.” From the perspective of a community member, this is as easy as just showing up and supporting the things you care about.
 
-Under conviction voting, **the majority doesn’t need to achieve consensus on everything.** As such, we get real [proportional representation](https://en.wikipedia.org/wiki/Proportional_representation#Advantages_and_disadvantages). Community members can propose and support things they care about without fear that a whale will vote them down. In fact, there is no downvoting. **People with large stakes and strong opinions can’t suppress the community.**. Rather than relying entirely on majority rule decision-making, resource allocation decisions are regulated by staking on proposals to accumulate conviction over time. This allows resources to be allocated fairly while minimizing the political and divisive process of coming to consensus on a single course of action.[**1**](garden-framework.md#notes)
+Under conviction voting, **the majority doesn’t need to achieve consensus on everything.** As such, we get real [proportional representation](https://en.wikipedia.org/wiki/Proportional_representation#Advantages_and_disadvantages). Community members can propose and support things they care about without fear that a whale will vote them down. In fact, there is no downvoting. **People with large stakes and strong opinions can’t suppress the community.**. Rather than relying entirely on majority rule decision-making, resource allocation decisions are regulated by staking on proposals to accumulate conviction over time. This allows resources to be allocated fairly while minimizing the political and divisive process of coming to consensus on a single course of action.<sup>[**1**](garden-framework.md#notes)</sup>
 
 **Proposals simply need enough support to pass – the fewer funds they ask for, the less support required.** This means there’s a real sense in which everyone has a voice. The only thing token holders have to think about is whether or not they support something. _That’s it._
 
@@ -26,13 +26,13 @@ Under this framework, **many divergent initiatives can be proposed and run in pa
 
 One underrated benefit of this is that it allows the DAO to grow as a [headless brand](https://otherinter.net/web3/headless-brands/), iterating through cycles of [divergence and convergence](https://otherinter.net/web3/market-protocol-fit/), and continuously reflecting the preferences and interests of token holders \(a true living organisation!\).
 
-In sum, by giving small token holders the agency to contribute, **conviction voting helps lay the foundation for a fiercely loyal community**, solving the problems associated with governance attacks, low participation, and the overall inability to effectively prioritise and decide when there are many potential options all competing for consideration at once.
+In sum, by giving small token holders the agency to contribute, **Conviction Voting helps lay the foundation for a fiercely loyal community**, solving the problems associated with governance attacks, low participation, and the overall inability to effectively prioritise and decide when there are many potential options all competing for consideration at once.
 
 ## **Community Covenant \(to encode values\)**
 
-The second pillar of a Garden is the community covenant.[2](garden-framework.md#notes) You can think of it as a constitution or **decentralised social contract** of sorts.
+The second pillar of a Garden is the community covenant.<sup>[**2**](garden-framework.md#notes)</sup> You can think of it as a constitution or **decentralised social contract** of sorts.
 
-On a practical level, a covenant is a document, stored on [IPFS](https://hackmd.io/KCS70fPRR9O0iXOLYCzK1w?view), which explains what a DAO is about in plain English. It establishes values, rules, and customs. And is used to protect the DAO from malicious actors _without_ sacrificing the agency of its members.
+On a practical level, a covenant is a document, stored on [IPFS](https://hackmd.io/KCS70fPRR9O0iXOLYCzK1w?view), which explains what a DAO is about in plain English. It establishes values, rules, and customs. And is used to protect the DAO from malicious actors _without_ sacrificing the agency of its members. It should be designed as an essential resource in moments of conflict and contextual reference for jurors (Keepers) to rule on a challenged proposal that has been escalated to court (Celeste).  
 
 The key idea here is that a covenant allows an organisation’s actions to be governed by a subjective set of rules; rules which are either impossible to encode into smart contracts, or which would otherwise result in a complicated and slow-moving organization.
 
@@ -56,11 +56,11 @@ More technically, **Celeste is a** [**BrightID**](https://www.brightid.org/) **i
 
 While we’ll save the details for a dedicated follow-up post, I think it’s worth mentioning here that Celeste is invoked only if and when an action is challenged \(i.e. only in exceptional circumstances\).
 
-Once Celeste is invoked, a decentralised \(and randomly selected\) group of BrightID verified humans – called keepers – is drafted to rule on the dispute \(they are tasked with deciding whether or not the disputed action is compatible with that community’s covenant\).[3](garden-framework.md#notes)
+Once Celeste is invoked, a decentralised \(and randomly selected\) group of BrightID verified humans – called Keepers – is drafted to rule on the dispute \(they are tasked with deciding whether or not the disputed action is compatible with that community’s covenant\).<sup>[**3**](garden-framework.md#notes)</sup>
 
-If the keepers decide the proposal is compatible, on-chain execution continues. If they decide it is not, the proposal is blocked.[4](garden-framework.md#notes)
+If the Keepers decide the proposal is compatible, on-chain execution continues. If they decide it is not, the proposal is blocked.<sup>[**4**](garden-framework.md#notes)</sup>
 
-By allowing even small token holders to challenge proposals that aren’t in line with the values of the community, Celeste provides a trustless way to uphold a DAO’s core values.[5](garden-framework.md#notes)
+By allowing even small token holders to challenge proposals that aren’t in line with the values of the community, Celeste provides a trustless way to uphold a DAO’s core values.<sup>[**5**](garden-framework.md#notes)</sup>
 
 Celeste is a protocol on its own if you are interested in learning more about it check their [official documentation](https://1hive.gitbook.io/celeste/).
 
@@ -68,7 +68,7 @@ Celeste is a protocol on its own if you are interested in learning more about it
 
 Gardens provides a beautiful foundation for public communities to coordinate around shared resources in a bottom-up fashion.
 
-By combining three of the most important pieces of decentralised software ever written – Conviction voting, Community Covenants \(Aragon Agreements\), and Celeste \(a BrightID integrated Aragon Court\), we are able to fulfill the promise of effective community-driven on-chain governance, not tomorrow, but today.
+By combining three of the most important pieces of decentralised software ever written – Conviction Voting\(Continous Signal Voting\), Community Covenants \(Aragon Agreements\), and Celeste \(a BrightID integrated Aragon Court\), we are able to fulfill the promise of effective community-driven on-chain governance, not tomorrow, but today.
 
 With these building blocks, we now have essentially limitless abilities for completely decentralised, and completely autonomous organisations.
 
@@ -80,7 +80,6 @@ With these building blocks, we now have essentially limitless abilities for comp
 
 3. Well-reasoned [cryptoeconomic incentives](https://1hive.gitbook.io/celeste/keepers/dispute-lifecycle) ensure that the keepers converge to the most reasonable outcome for the dispute.
 
-4. It’s important to note that Celeste can be used to rule on disputes arising over _any_ human readable English document that allows for the possibility for subjective outcomes, not just a Covenant. For example, you could use it to decide on whether work, as outlined in a funding proposal, was actually completed or not.
+4. It’s important to note that Celeste can be used to rule on disputes arising over _any_ human readable English document that allows for the possibility of subjective outcomes, not just a Covenant. For example, you could use it to decide on whether work, as outlined in a funding proposal, was actually completed or not.
 
 5. Celeste acts as a check on the power of _all_ individuals – even highly-trusted community members. In doing so, it protects the long-term integrity of the DAO.
-
