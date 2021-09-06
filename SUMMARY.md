@@ -29,10 +29,10 @@
 
 * [Forum \(discourse\)](off-chain-governance/forum-discourse.md)
 * [Social spaces \(discord\)](off-chain-governance/social-spaces-discord.md)
-* [Tips on creating the right culture](off-chain-governance/tips-on-creating-the-right-culture.md)
 * [The role of the Covenant](off-chain-governance/the-role-of-the-covenant.md)
 * [How to suggest a proposal?](off-chain-governance/how-to-suggest-a-proposal.md)
 * [Proposal template](off-chain-governance/proposal-template.md)
+* [Tips on creating the right culture](off-chain-governance/tips-on-creating-the-right-culture.md)
 
 ## 🌱 Garden summoners <a id="garden-creators"></a>
 
@@ -46,25 +46,26 @@
 
 ## 👩‍🌾 Actions for Community Members
 
-* [Wrap your Tokens](community-members/wrap-your-tokens.md)
-* [Sign the Covenant](community-members/signing-the-covenant.md)
-* [Deposit Collateral](community-members/deposit-collateral.md)
-* [Support a Proposal](community-members/supporting-proposals.md)
-* [Create a Proposal](community-members/creating-a-new-proposal.md)
-* [Challenge a Proposal](community-members/challenge-a-proposal.md)
-* [Settle a Dispute](community-members/settle-a-proposal.md)
-* [Raise to Celeste](community-members/raise-to-celeste.md)
-* [Homepage stats](community-members/homepage-stats.md)
+* [Wrap your Tokens](actions-for-community-members/wrap-your-tokens.md)
+* [Sign the Covenant](actions-for-community-members/signing-the-covenant.md)
+* [Deposit Collateral](actions-for-community-members/deposit-collateral.md)
+* [Support a Proposal](actions-for-community-members/supporting-proposals.md)
+* [Create a Proposal](actions-for-community-members/creating-a-new-proposal.md)
+* [Challenge a Proposal](actions-for-community-members/challenge-a-proposal.md)
+* [Settle a Dispute](actions-for-community-members/settle-a-proposal.md)
+* [Raise to Celeste](actions-for-community-members/raise-to-celeste.md)
+* [Homepage stats](actions-for-community-members/homepage-stats.md)
+* [Profile](actions-for-community-members/profile.md)
 
 ## 🧑‍💻 Documentation for Developers
 
-* [Create a Garden with scripts](developers/create-a-garden-with-scripts.md)
-* [Apps](developers/apps/README.md)
-  * [Conviction Voting](developers/apps/disputable-conviction-voting.md)
-  * [Agreement](developers/apps/agreement.md)
-  * [Tao Voting](developers/apps/disputable-voting.md)
-  * [Dynamic Issuance](developers/apps/dynamic-issuance.md)
-* [Price Oracle](developers/price-oracle.md)
+* [Create a Garden with scripts](documentation-for-developers/create-a-garden-with-scripts.md)
+* [Apps](documentation-for-developers/apps/README.md)
+  * [Conviction Voting](documentation-for-developers/apps/disputable-conviction-voting.md)
+  * [Agreement](documentation-for-developers/apps/agreement.md)
+  * [Tao Voting](documentation-for-developers/apps/disputable-voting.md)
+  * [Dynamic Issuance](documentation-for-developers/apps/dynamic-issuance.md)
+* [Price Oracle](documentation-for-developers/price-oracle.md)
 
 ## Security
 
@@ -81,3 +82,4 @@
 * [Talks and Videos](additional-resources/untitled.md)
 * [Further Reading](additional-resources/general-resources.md)
 * [General Resources](additional-resources/general-resources-1.md)
+

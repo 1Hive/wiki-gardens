@@ -1,4 +1,4 @@
-# General resources
+# General Resources
 
 * [Gardens overview - original idea](https://forum.1hive.org/t/gardens-overview/32)
 * [Gardens based media publications](https://forum.1hive.org/t/buzz-gardens-based-media-publications/36)

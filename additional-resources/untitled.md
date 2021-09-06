@@ -1,4 +1,4 @@
-# Talks and videos
+# Talks and Videos
 
 ### [1Hive: How to DAO](https://www.buzzsprout.com/1773486/8452251-how-to-dao-with-luke)
 
