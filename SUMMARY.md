@@ -1,10 +1,13 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Composability](composability.md)
+* [Sufficient decentralizion](sufficient-decentralizion.md)
 
 ## 🌻 Background
 
 * [The three pillars](background/garden-framework.md)
+* [The multisig problem](background/the-multisig-problem.md)
 * [Types of Gardens](background/garden-modes.md)
 
 ## 🌾Requirements
@@ -33,7 +36,7 @@
 * [Dynamic issuance](issuance-policy/dynamic-issuance.md)
 * [Alternatives](issuance-policy/alternatives.md)
 
-## 🌱 Garden creators
+## 🌱 Garden summoners <a id="garden-creators"></a>
 
 * [Create a Garden \(non-technical\)](garden-creators/untitled.md)
 * [Governance incentives for pre-existing token Gardens](garden-creators/byot-garden-wrapping-incentive.md)
@@ -41,6 +44,7 @@
 
 ## 👩‍🌾 community members
 
+* [Enabling your account](community-members/enabling-your-account.md)
 * [Wrap your tokens](community-members/wrap-your-tokens.md)
 * [Sign the covenant](community-members/signing-the-covenant.md)
 * [Deposit some collateral](community-members/deposit-collateral.md)
@@ -61,14 +65,19 @@
   * [Dynamic Issuance](developers/apps/dynamic-issuance.md)
 * [Price Oracle](developers/price-oracle.md)
 
+## Security
+
+* [Aragon OS](security/aragon-os.md)
+* [Architecture](security/architecture.md)
+
+## Roadmap
+
+* [On the horizon](roadmap/on-the-horizon.md)
+* [Big picture](roadmap/big-picture.md)
+
 ## 🍄 Additional Resources
 
 * [Talks and videos](additional-resources/untitled.md)
 * [Further reading](additional-resources/general-resources.md)
 * [General resources](additional-resources/general-resources-1.md)
-
-## Security
-
-* [Aragon OS](security/aragon-os.md)
-* [Architecture](security/architecture.md)
 
