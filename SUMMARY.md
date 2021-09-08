@@ -80,9 +80,9 @@
 * [Further Reading](additional-resources/general-resources.md)
 * [General Resources](additional-resources/general-resources-1.md)
 
-## Misc
+## Philosophy
 
-* [Solving the multisig problem](misc/the-multisig-problem.md)
-* [Solving the funding allocation problem](misc/solving-the-funding-allocation-problem.md)
-* [Moving beyond naive coin voting governance](misc/moving-beyond-naive-coin-voting-governance.md)
+* [Solving the multisig problem](philosophy/the-multisig-problem.md)
+* [Solving the funding allocation problem](philosophy/solving-the-funding-allocation-problem.md)
+* [Moving beyond naive coin voting governance](philosophy/moving-beyond-naive-coin-voting-governance.md)
 
