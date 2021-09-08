@@ -1,24 +1,23 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Composability](composability.md)
-* [Sufficient decentralizion](sufficient-decentralizion.md)
 
 ## 🌻 Background
 
-* [The Three Pillars](background/garden-framework.md)
-* [Solving the multisig problem](background/the-multisig-problem.md)
-* [Solving the funding allocation problem](background/solving-the-funding-allocation-problem.md)
-* [Moving beyond naive coin voting governance](background/moving-beyond-naive-coin-voting-governance.md)
-* [Types of Gardens](background/garden-modes.md)
+---
+
+* [Types of Gardens](garden-modes.md)
+* [Composability](composability.md)
+* [Sufficient decentralizion](sufficient-decentralizion.md)
 
 ## On-chain governance
 
-* [Covenant](on-chain-governance/covenant.md)
+* [The Three Pillars](on-chain-governance/garden-framework.md)
+* [Community covenant](on-chain-governance/covenant.md)
 * [Conviction voting](on-chain-governance/conviction-voting.md)
+* [Celeste](on-chain-governance/celeste.md)
 * [Tao voting](on-chain-governance/tao-voting.md)
 * [Deposits and settlement](on-chain-governance/deposits-and-settlement.md)
-* [Celeste](on-chain-governance/celeste.md)
 
 ## Issuance policy
 
@@ -82,4 +81,10 @@
 * [Talks and Videos](additional-resources/untitled.md)
 * [Further Reading](additional-resources/general-resources.md)
 * [General Resources](additional-resources/general-resources-1.md)
+
+## Misc
+
+* [Solving the multisig problem](misc/the-multisig-problem.md)
+* [Solving the funding allocation problem](misc/solving-the-funding-allocation-problem.md)
+* [Moving beyond naive coin voting governance](misc/moving-beyond-naive-coin-voting-governance.md)
 

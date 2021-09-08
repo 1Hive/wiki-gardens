@@ -83,7 +83,7 @@ Let's unpack the above configuration.
 
 ### Type Of Garden
 
-First, you have to decide [which type of Garden is the best fit for you](../background/garden-modes.md).
+First, you have to decide [which type of Garden is the best fit for you](../garden-modes.md).
 
 If you decide to deploy **Native Token Garden** you have to set the:
 
@@ -104,7 +104,7 @@ If you decide to deploy **Bring Your Own Token Garden** you have to choose:
 
 ### Community Covenant
 
-As we explained in the [three pillars section](../background/garden-framework.md#community-covenant-to-encode-values), the Covenant will be one of the pillars of your community. Take your time to encode your community's values in it. Once you have it ready you should upload it with a markdown format to the [IPFS network](https://ipfs.io). We recommend using a pinning service like [Pinata](https://pinata.cloud/) to keep the content pinned and accessible. 
+As we explained in the [three pillars section](../on-chain-governance/garden-framework.md#community-covenant-to-encode-values), the Covenant will be one of the pillars of your community. Take your time to encode your community's values in it. Once you have it ready you should upload it with a markdown format to the [IPFS network](https://ipfs.io). We recommend using a pinning service like [Pinata](https://pinata.cloud/) to keep the content pinned and accessible. 
 
 Following you can see a couple of examples:
 
