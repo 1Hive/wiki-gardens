@@ -12,12 +12,11 @@
 
 ## On-chain governance
 
-* [The Three Pillars](on-chain-governance/garden-framework.md)
+* [Three Pillars](on-chain-governance/garden-framework.md)
 * [Community covenant](on-chain-governance/covenant.md)
 * [Conviction voting](on-chain-governance/conviction-voting.md)
 * [Celeste](on-chain-governance/celeste.md)
 * [Tao voting](on-chain-governance/tao-voting.md)
-* [Deposits and settlement](on-chain-governance/deposits-and-settlement.md)
 
 ## Issuance policy
 
