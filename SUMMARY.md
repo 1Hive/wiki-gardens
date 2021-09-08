@@ -21,7 +21,6 @@
 ## Issuance policy
 
 * [Dynamic issuance](issuance-policy/dynamic-issuance.md)
-* [Alternatives](issuance-policy/alternatives.md)
 
 ## Off-chain governance
 
