@@ -35,7 +35,7 @@ From a governance perspective this is useful because Gardens have the ability to
 
 ### Parameter Choice
 
-Gardens need to determine which values will be initially used for the `target_ratio` and `throttle` .
+Gardens need to determine which values will be initially used for the `initial_ratio` ,`target_ratio` and `throttle` .
 
 See the[ dynamic issuance app](../documentation-for-developers/apps/dynamic-issuance.md) for more on these parameters.
 
