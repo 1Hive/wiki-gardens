@@ -8,12 +8,6 @@ Each Garden has a Common Pool which will hold DAO funds that can be requested by
 
 This is the type of Garden that 1Hive uses. It comes with a powerful dynamic issuance policy \(the details of which you can fine tune\).
 
-Every Garden also needs a Token, it will quantify each member's ability to propose and influence decisions that are made in your DAO. Using this metric, Gardens can be separated into two categories: **Native Token Gardens** and **Pre-existing Token Gardens**. Each has a unique setup process and certain economic implications, weigh your options before proceeding.
-
-### Native Token Gardens
-
-This is the type of Garden that 1Hive uses. The advantage of this option is that the economics are for the most part figured out for you.
-
 When a community launches this type of Garden, they also create a community token. This token is used to grant voting power to vote on proposals that allocate shared resources from the Common Pool.
 
 The key features are:
@@ -27,13 +21,9 @@ The key features are:
 
 ### Boboli Gardens
 
-### Pre-existing Token Gardens
-
 Under this type of Garden, you have more flexibility in the sense that you are importing an existing token that may already have its own supply policy and rules associated with it. Once imported, this token is used to attribute voting power over the Garden's shared resources.
 
 One key difference between this type of garden and a Veneto garden is the [incentive contract](https://github.com/1Hive/unipool). The incentive contract can be used to reward users who import their existing ERC20 token into the Garden in order to gain governance rights within that Garden.
-
-One key difference between this model and the native model is the [incentive contract](https://github.com/1Hive/unipool). The incentive contract is used to reward users who import their existing ERC-20 token into the Garden in order to gain governance rights within that Garden.
 
 The community creating the Garden is encouraged to:
 
