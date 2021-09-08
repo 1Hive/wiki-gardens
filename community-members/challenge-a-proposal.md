@@ -6,7 +6,7 @@ description: >-
 
 # Challenge a proposal
 
-If you see a proposal that you think is not aligned with the values outlined by the community in their covenant you can challnge the proposal. Challenging a proposal effectively blocks it from being executed until the challenge is resolved. Anyone can challenge a proposal in a Gardens if they have deposited enough collateral and submit enough Honey (HNY) from their wallet to cover any initial dispute fees. To challenge a proposal, follow these steps:
+If you see a proposal that you think is not aligned with the values outlined by the community in their covenant, you can challenge the proposal. Challenging a proposal effectively blocks it from being executed until the challenge is resolved. Anyone can challenge a proposal in a Gardens if they have deposited enough collateral and submit enough Honey (HNY) from their wallet to cover any initial dispute fees. To challenge a proposal, follow these steps:
 
 1. Click on the proposal you'd like to challenge.
 
