@@ -21,7 +21,7 @@
 ## Issuance policy
 
 * [Dynamic issuance](issuance-policy/dynamic-issuance.md)
-* [Simple issuance](issuance-policy/fixed-supply.md)
+* [Fixed supply](issuance-policy/fixed-supply.md)
 
 ## Protocol Parameters
 
