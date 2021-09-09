@@ -6,7 +6,6 @@ description: To protect values
 
 > See[ here](https://1hive.gitbook.io/celeste/) for the Celeste documentation portal
 
-  
 Celeste, serves as **the interface for a DAO’s shared values, beliefs, and hopes**. It provides a way to resolve subjective disputes, and to peacefully enforce the covenant.
 
 More technically, **Celeste is a** [**BrightID**](https://www.brightid.org/) **integrated fork of Aragon Court** – the integration with BrightID allows for placing limits on how much stake an individual can add to the system.
