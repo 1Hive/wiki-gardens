@@ -1,3 +1,7 @@
+---
+description: Veneto & Boboli
+---
+
 # Types of Gardens
 
 We currently support two types of Gardens: **Veneto** \(native token\)  and  **Boboli** \(imported token\) Gardens.
