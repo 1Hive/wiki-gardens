@@ -4,25 +4,7 @@ description: >-
   require making discrete, binary choice decisions via voting.
 ---
 
-# Tao Voting
-
-Tao Voting \(TV\) is the voting process by which a Garden can modify its settings post-launch. It is a very powerful voting application that is capable of performing many high-impact actions, including:
-
-* Mint and burn tokens
-* Install and remove Applications in
-* Modify the parameters of all existing Applications
-
-TV is an upgraded version of Dandelion Voting with familiar parameters such as **Support Required**, **Minimum Quorum**, **Execution Delay** and **Vote Duration**.
-
-Tao Voting also comes with two new concepts: **Delegation** and **Quiet Ending**.
-
-### Delegation
-
-Token holders can delegate their Tao Voting powers to another member who will cast votes on their behalf, these members become delegates. Delegates can only vote during the Delegate Voting Period, which is a specified amount of time at the beginning of the voting process. If a delegate votes contrary to their delegator the delegator can veto the delegated vote and cast their vote themselves. Any voter, delegate or otherwise, can only vote ONCE.
-
-### Quiet Ending
-
-In the latter portion of the Vote Duration there’s a designated Quiet Ending Period \(QEP\). If during this period the vote outcome is flipped the Quiet Ending Extension\(QEE\) will trigger. The QEE will add more time to the voting period, giving eligible members who have not yet voted more time to do so. If the vote outcome flips again during QEE then another QEE will trigger, adding more time to vote. Voting closes only when the QEP or QEE ends without the vote outcome flipping.
+# Tao voting
 
 The Tao Voting parameters \(together with the 1hive defaults\) are:
 

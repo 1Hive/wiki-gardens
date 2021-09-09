@@ -42,3 +42,17 @@ Tao voting can be used to propose changes to the [Covenant](covenant.md).
 
 Tao voting can be used to update the DAO's [protocol parameters]().
 
+### Relationship with Dandelion voting
+
+Tao Voting is an upgraded version of Dandelion Voting with familiar parameters such as **Support Required**, **Minimum Quorum**, **Execution Delay** and **Vote Duration**.
+
+Tao Voting also comes with two new concepts: **Delegation** and **Quiet Ending**.
+
+#### Delegation
+
+Token holders can delegate their Tao Voting powers to another member who will cast votes on their behalf, these members become delegates. Delegates can only vote during the Delegate Voting Period, which is a specified amount of time at the beginning of the voting process. If a delegate votes contrary to their delegator the delegator can veto the delegated vote and cast their vote themselves. Any voter, delegate or otherwise, can only vote ONCE.
+
+#### Quiet ending
+
+In the latter portion of the Vote Duration there’s a designated Quiet Ending Period \(QEP\). If during this period the vote outcome is flipped the Quiet Ending Extension\(QEE\) will trigger. The QEE will add more time to the voting period, giving eligible members who have not yet voted more time to do so. If the vote outcome flips again during QEE then another QEE will trigger, adding more time to vote. Voting closes only when the QEP or QEE ends without the vote outcome flipping.
+

@@ -26,9 +26,9 @@
 ## Protocol Parameters
 
 * [Conviction Voting](protocol-parameters/disputable-conviction-voting.md)
-* [Agreement](protocol-parameters/agreement.md)
-* [Tao Voting](protocol-parameters/disputable-voting.md)
+* [Tao voting](protocol-parameters/disputable-voting.md)
 * [Dynamic Issuance](protocol-parameters/dynamic-issuance.md)
+* [Agreement](protocol-parameters/agreement.md)
 
 ## Off-chain governance
 
@@ -42,7 +42,9 @@
 ## 🌱 Garden summoners <a id="garden-creators"></a>
 
 * [Create a Garden \(non-technical\)](garden-creators/untitled.md)
+* [Create a Garden with scripts](garden-creators/create-a-garden-with-scripts.md)
 * [Governance incentives for pre-existing token Gardens](garden-creators/byot-garden-wrapping-incentive.md)
+* [Price Oracle](garden-creators/price-oracle.md)
 * [Launching on xdai vs arbitrum](garden-creators/launching-on-xdai-vs-arbitrum.md)
 
 ## ⚠️ Requirements
@@ -61,11 +63,6 @@
 * [Raise to Celeste](actions-for-community-members/raise-to-celeste.md)
 * [Homepage stats](actions-for-community-members/homepage-stats.md)
 * [Profile](actions-for-community-members/profile.md)
-
-## 🧑‍💻 Documentation for Developers
-
-* [Create a Garden with scripts](documentation-for-developers/create-a-garden-with-scripts.md)
-* [Price Oracle](documentation-for-developers/price-oracle.md)
 
 ## Security
 
