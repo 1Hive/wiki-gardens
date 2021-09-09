@@ -42,7 +42,7 @@
 * [Governance incentives for pre-existing token Gardens](garden-creators/byot-garden-wrapping-incentive.md)
 * [Launching on xdai vs arbitrum](garden-creators/launching-on-xdai-vs-arbitrum.md)
 
-## ��Requirements
+## ⚠️ Requirements
 
 * [Honeyswap initial liquidity](requirements/honeyswap.md)
 
