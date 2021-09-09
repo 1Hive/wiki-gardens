@@ -8,9 +8,9 @@ description: >-
 
 A Garden has three main pillars:
 
-1. A novel voting system \(Conviction voting\)
-2. A decentralised social contract \(Community Covenant\)
-3. A dispute resolution protocol \(Celeste\)
+1. A novel voting system \(**Conviction voting**\)
+2. A decentralised social contract \(**Community Covenant**\)
+3. A dispute resolution protocol \(**Celeste**\)
 
 Taken together, they fulfill the promise of effective community-driven, on-chain governance. Not tomorrow, but today.
 

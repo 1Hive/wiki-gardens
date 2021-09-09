@@ -6,7 +6,7 @@ The Conviction Voting parameters \(together with the 1hive defaults\) are:
   "convictionGrowthHours": 48,
   "spendingLimit": 0.1,
   "minThreshold": 0.025,
-  "minActiveStakePercentage": 0.2,
+  "minEffectiveStake": 0.2,
 ```
 
 Where:
@@ -17,7 +17,7 @@ Where:
 
 `minimumConviction` is the minimum conviction required for small proposals. By requiring all proposals to have some minimum conviction to pass, we are able to prevent small proposals from spamming or draining the communal funding pool. In the default case, it is set to `0.025`, which means the required threshold for any proposal is at least 2.5% of the max conviction that the currently active staked tokens could accrue.
 
-`minActiveStakePercentage` is the minimum percent of the token's current supply \(including the common pool\) that is used to calculate the conviction. If the actual active stake is below `minActiveStakePercentage`, then `minActiveStakePercentage` is used to calculate conviction voting required thresholds instead of active stake. In the default case, it is set to `0.2`,which means that the minimum percent of the token's current supply used to calculate conviction is 20%.
+`minEffectiveStake` is the minimum percent of the token's current supply \(including the common pool\) that is used to calculate the conviction. If the actual active stake is below `minEffectiveStake`, then `minEffectiveStake` is used to calculate conviction voting required thresholds instead of active stake. In the default case, it is set to `0.2`,which means that the minimum percent of the token's current supply used to calculate conviction is 20%.
 
 ## Recommendations
 

@@ -1,29 +1,34 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Composability](composability.md)
-* [Sufficient decentralizion](sufficient-decentralizion.md)
 
 ## 🌻 Background
 
-* [The Three Pillars](background/garden-framework.md)
-* [Solving the multisig problem](background/the-multisig-problem.md)
-* [Solving the funding allocation problem](background/solving-the-funding-allocation-problem.md)
-* [Moving beyond naive coin voting governance](background/moving-beyond-naive-coin-voting-governance.md)
-* [Types of Gardens](background/garden-modes.md)
+---
+
+* [Types of Gardens](garden-modes.md)
+* [Composability](composability.md)
+* [Sufficient decentralizion](sufficient-decentralizion.md)
 
 ## On-chain governance
 
+* [Three Pillars](on-chain-governance/garden-framework.md)
 * [Covenant](on-chain-governance/covenant.md)
 * [Conviction voting](on-chain-governance/conviction-voting.md)
-* [Tao voting](on-chain-governance/tao-voting.md)
-* [Deposits and settlement](on-chain-governance/deposits-and-settlement.md)
 * [Celeste](on-chain-governance/celeste.md)
+* [Tao voting](on-chain-governance/tao-voting.md)
 
 ## Issuance policy
 
 * [Dynamic issuance](issuance-policy/dynamic-issuance.md)
-* [Alternatives](issuance-policy/alternatives.md)
+* [Fixed supply](issuance-policy/fixed-supply.md)
+
+## Protocol Parameters
+
+* [Agreement](protocol-parameters/agreement.md)
+* [Conviction Voting](protocol-parameters/disputable-conviction-voting.md)
+* [Tao voting](protocol-parameters/disputable-voting.md)
+* [Dynamic Issuance](protocol-parameters/dynamic-issuance.md)
 
 ## Off-chain governance
 
@@ -37,10 +42,12 @@
 ## 🌱 Garden summoners <a id="garden-creators"></a>
 
 * [Create a Garden \(non-technical\)](garden-creators/untitled.md)
+* [Create a Garden with scripts](garden-creators/create-a-garden-with-scripts.md)
 * [Governance incentives for pre-existing token Gardens](garden-creators/byot-garden-wrapping-incentive.md)
+* [Price Oracle](garden-creators/price-oracle.md)
 * [Launching on xdai vs arbitrum](garden-creators/launching-on-xdai-vs-arbitrum.md)
 
-## 🌾Requirements
+## ⚠️ Requirements
 
 * [Honeyswap initial liquidity](requirements/honeyswap.md)
 
@@ -57,16 +64,6 @@
 * [Raise to Celeste](actions-for-community-members/raise-to-celeste.md)
 * [Homepage stats](actions-for-community-members/homepage-stats.md)
 
-## 🧑‍💻 Documentation for Developers
-
-* [Create a Garden with scripts](documentation-for-developers/create-a-garden-with-scripts.md)
-* [Apps](documentation-for-developers/apps/README.md)
-  * [Conviction Voting](documentation-for-developers/apps/disputable-conviction-voting.md)
-  * [Agreement](documentation-for-developers/apps/agreement.md)
-  * [Tao Voting](documentation-for-developers/apps/disputable-voting.md)
-  * [Dynamic Issuance](documentation-for-developers/apps/dynamic-issuance.md)
-* [Price Oracle](documentation-for-developers/price-oracle.md)
-
 ## Security
 
 * [Aragon OS](security/aragon-os.md)
@@ -82,3 +79,10 @@
 * [Talks and Videos](additional-resources/untitled.md)
 * [Further Reading](additional-resources/general-resources.md)
 * [General Resources](additional-resources/general-resources-1.md)
+
+## Philosophy
+
+* [Solving the multisig problem](philosophy/the-multisig-problem.md)
+* [Solving the funding allocation problem](philosophy/solving-the-funding-allocation-problem.md)
+* [Moving beyond naive coin voting governance](philosophy/moving-beyond-naive-coin-voting-governance.md)
+

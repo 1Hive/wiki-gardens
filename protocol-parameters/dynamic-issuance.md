@@ -1,9 +1,3 @@
----
-description: >-
-  Dynamic issuance adjusts the issuance in order to target a certain percentage
-  of the total supply in the Common Pool
----
-
 # Dynamic Issuance
 
 The Issuance app parameters \(together with the 1hive defaults\) are:
