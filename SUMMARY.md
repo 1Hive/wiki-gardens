@@ -22,6 +22,10 @@
 
 * [Dynamic issuance](issuance-policy/dynamic-issuance.md)
 
+## Protocol Parameters
+
+* [TBD](protocol-parameters/tbd.md)
+
 ## Off-chain governance
 
 * [Forum \(discourse\)](off-chain-governance/forum-discourse.md)
@@ -37,7 +41,7 @@
 * [Governance incentives for pre-existing token Gardens](garden-creators/byot-garden-wrapping-incentive.md)
 * [Launching on xdai vs arbitrum](garden-creators/launching-on-xdai-vs-arbitrum.md)
 
-## 🌾Requirements
+## ��Requirements
 
 * [Honeyswap initial liquidity](requirements/honeyswap.md)
 

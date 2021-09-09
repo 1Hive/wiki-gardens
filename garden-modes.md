@@ -6,7 +6,7 @@ Each Garden has a Common Pool which will hold DAO funds that can be requested by
 
 ### Veneto Gardens
 
-This is the type of Garden that 1Hive uses. It comes with a powerful dynamic issuance policy \(the details of which you can fine tune\).
+This is the type of Garden that 1hive uses. It comes with a powerful [dynamic issuance policy](issuance-policy/dynamic-issuance.md) \(the details of which you can fine tune\).
 
 When a community launches this type of Garden, they also create a community token. This token is used to grant voting power to vote on proposals that allocate shared resources from the Common Pool.
 
