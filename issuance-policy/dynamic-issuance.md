@@ -1,6 +1,6 @@
 # Dynamic issuance
 
-Veneto Gardens come with a dynamic supply policy that can burn and issue tokens from the common pool automatically. The default parameters are inherited from [1hive's issuance policy](https://forum.1hive.org/t/dynamic-honey-supply-policy-proposal/2224).
+Veneto Gardens can choose a dynamic supply policy that can burn and issue tokens from the common pool automatically. The default parameters are inherited from [1hive's issuance policy](https://forum.1hive.org/t/dynamic-honey-supply-policy-proposal/2224).
 
 Gardens which collectively allocate resources productively should expect to see increases in demand for their token outpace issuance, either due to their token being removed from the circulating supply \(fee capture\), or due to demand for their token increasing as a result of supply sinks \(eg staking mechanisms\).
 
