@@ -24,7 +24,7 @@
 
 ## Protocol Parameters
 
-* [TBD](protocol-parameters/tbd.md)
+* [Tao voting](protocol-parameters/tao-voting.md)
 
 ## Off-chain governance
 
