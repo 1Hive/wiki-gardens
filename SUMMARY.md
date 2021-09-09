@@ -13,7 +13,7 @@
 ## On-chain governance
 
 * [Three Pillars](on-chain-governance/garden-framework.md)
-* [Community covenant](on-chain-governance/covenant.md)
+* [Covenant](on-chain-governance/covenant.md)
 * [Conviction voting](on-chain-governance/conviction-voting.md)
 * [Celeste](on-chain-governance/celeste.md)
 * [Tao voting](on-chain-governance/tao-voting.md)
@@ -25,10 +25,10 @@
 
 ## Protocol Parameters
 
+* [Agreement](protocol-parameters/agreement.md)
 * [Conviction Voting](protocol-parameters/disputable-conviction-voting.md)
 * [Tao voting](protocol-parameters/disputable-voting.md)
 * [Dynamic Issuance](protocol-parameters/dynamic-issuance.md)
-* [Agreement](protocol-parameters/agreement.md)
 
 ## Off-chain governance
 

@@ -2,7 +2,7 @@
 description: To encode values
 ---
 
-# Community covenant
+# Covenant
 
 You can think of the covenant as a constitution or **decentralised social contract** of sorts.
 

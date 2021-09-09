@@ -4,7 +4,7 @@ Veneto Gardens can choose a dynamic supply policy that can burn and issue tokens
 
 Gardens which collectively allocate resources productively should expect to see increases in demand for their token outpace issuance, either due to their token being removed from the circulating supply \(fee capture\), or due to demand for their token increasing as a result of supply sinks \(eg staking mechanisms\).
 
-### Details
+## Details 
 
 There is a public function which anyone can call which can adjust the the total supply of the token.
 
@@ -33,13 +33,13 @@ In practice the throttle is an artificial limit on the ability for the mechanism
 
 From a governance perspective this is useful because Gardens have the ability to make it significantly more difficult \(or impossible\) to adjust the throttle and reserve ratio parameters, while allowing more strategic discretion over the conviction voting parameters that determine the outflow rate from the common pool.
 
-### Parameter Choice
+## Parameter Choice
 
 Gardens need to determine which values will be initially used for the `initial_ratio` ,`target_ratio` and `throttle` .
 
 See the[ dynamic issuance app](../protocol-parameters/dynamic-issuance.md) for more on these parameters.
 
-#### Model Overview
+### Model Overview
 
 To help inform your decisions, we highly encourage anyone interested in the topic to [read carefully through this forum post](https://forum.1hive.org/t/dynamic-honey-supply-policy-proposal/2224) and get their [hands on the model](https://github.com/1Hive/luna-swarm/tree/master/honey-supply) we created to come to help us come to our own decisions.
 

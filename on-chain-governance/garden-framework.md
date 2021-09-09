@@ -12,15 +12,7 @@ A Garden has three main pillars:
 2. A decentralised social contract \(**Community Covenant**\)
 3. A dispute resolution protocol \(**Celeste**\)
 
-Taken together, they fulfill the promise of effective community-driven, on-chain governance. Not tomorrow, but today.
-
-## **In sum**
-
-Gardens provides a beautiful foundation for public communities to coordinate around shared resources in a bottom-up fashion.
-
-By combining three of the most important pieces of decentralised software ever written – Conviction Voting\(Continous Signal Voting\), Community Covenants \(Aragon Agreements\), and Celeste \(a BrightID integrated Aragon Court\), we are able to fulfill the promise of effective community-driven on-chain governance, not tomorrow, but today.
-
-With these building blocks, we now have essentially limitless abilities for completely decentralised, and completely autonomous organisations.
+By combining three of the most important pieces of decentralised software ever written – Conviction Voting \(Continous Signal Voting\), Community Covenants \(Aragon Agreements\), and Celeste \(a BrightID integrated Aragon Court\), we are able to fulfill the promise of effective community-driven on-chain governance, not tomorrow, but today.
 
 ## **Notes**
 

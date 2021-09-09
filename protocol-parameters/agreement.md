@@ -28,7 +28,7 @@ Where:
 
 `challengeDepositStable` is the amount of the token in USD terms that a community member needs to stake in order to challenge an action. This value is used to update `challengeDeposit`.
 
-### Recommendations
+## Recommendations
 
 We recommend using symmetrical values for both the action and challenge amounts. This ensures it is just as easy to create a proposal as it is to challenge one.
 
