@@ -24,14 +24,12 @@ The key features are:
 
 Under this type of Garden, you have more flexibility in the sense that you are importing an existing token that may already have its own supply policy and rules associated with it. Once imported, this token is used to attribute voting power over the Garden's shared resources.
 
-One key difference between this type of garden and a Veneto garden is the [incentive contract](https://github.com/1Hive/unipool). The incentive contract can be used to reward users who import their existing ERC20 token into the Garden in order to gain governance rights within that Garden.
+One key difference between this type of garden and a Veneto garden is the [incentive contract](https://github.com/1Hive/unipool). The incentive contract can be used to reward users who choose to import their existing ERC20 token into the Garden in order to gain governance rights within that Garden \(in simple terms, it provides a way to incentivise voting\).
 
 The community creating the Garden is encouraged to:
 
 * Allocate a portion of their treasury to the Garden common pool.
-* Send tokens to the [incentive contract](https://github.com/1Hive/unipool) in order to reward users who wrap the original token in exchange for governance rights in the Garden.
-* Allocate a portion of their treasury to the Garden common pool.
-* Send tokens to the [incentive contract](https://github.com/1Hive/unipool) in order to reward users who wrap the original token to earn governance rights in the Garden.
+* Send tokens to the [incentive contract](https://github.com/1Hive/unipool) \(not too little and not too much\) in order to reward users who choose to import the original token in exchange for governance rights in the Garden.
 
 ## Technical Details
 
