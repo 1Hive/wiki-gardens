@@ -147,7 +147,7 @@ The rest of the parameters are the initial configuration for the [Dynamic Issuan
 }
 ```
 
-For more detailed explanations of these parameters [see here](apps/).
+For more detailed explanations of these parameters [see here]().
 
 ## Script Execution
 

@@ -25,7 +25,10 @@
 
 ## Protocol Parameters
 
-* [Tao voting](protocol-parameters/tao-voting.md)
+* [Conviction Voting](protocol-parameters/disputable-conviction-voting.md)
+* [Agreement](protocol-parameters/agreement.md)
+* [Tao Voting](protocol-parameters/disputable-voting.md)
+* [Dynamic Issuance](protocol-parameters/dynamic-issuance.md)
 
 ## Off-chain governance
 
@@ -62,11 +65,6 @@
 ## 🧑‍💻 Documentation for Developers
 
 * [Create a Garden with scripts](documentation-for-developers/create-a-garden-with-scripts.md)
-* [Apps](documentation-for-developers/apps/README.md)
-  * [Conviction Voting](documentation-for-developers/apps/disputable-conviction-voting.md)
-  * [Agreement](documentation-for-developers/apps/agreement.md)
-  * [Tao Voting](documentation-for-developers/apps/disputable-voting.md)
-  * [Dynamic Issuance](documentation-for-developers/apps/dynamic-issuance.md)
 * [Price Oracle](documentation-for-developers/price-oracle.md)
 
 ## Security
