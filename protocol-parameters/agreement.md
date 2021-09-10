@@ -1,6 +1,12 @@
+---
+description: >-
+  Aragon app used to define and enforce subjective rules that cannot be easily
+  encoded in smart contracts.
+---
+
 # Agreement
 
-The Agreement app parameters \(together with the 1hive defaults\) are:
+The [Agreement app](https://github.com/1Hive/agreement) parameters \(together with the 1hive defaults\) are:
 
 ```text
 "agreementTitle": "1Hive Community Covenant",

@@ -30,11 +30,11 @@
 * [How to suggest a proposal?](off-chain-governance/how-to-suggest-a-proposal.md)
 * [Proposal template](off-chain-governance/proposal-template.md)
 
-## Protocol Parameters
+## Apps and Parameters <a id="protocol-parameters"></a>
 
 * [Agreement](protocol-parameters/agreement.md)
 * [Conviction Voting](protocol-parameters/disputable-conviction-voting.md)
-* [Tao voting](protocol-parameters/disputable-voting.md)
+* [Tao Voting](protocol-parameters/disputable-voting.md)
 * [Dynamic Issuance](protocol-parameters/dynamic-issuance.md)
 
 ## 🌱 Garden summoners <a id="garden-creators"></a>

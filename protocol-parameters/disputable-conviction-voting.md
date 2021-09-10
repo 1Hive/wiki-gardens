@@ -1,6 +1,10 @@
+---
+description: Aragon app used to collectively allocate funds from a shared treasury
+---
+
 # Conviction Voting
 
-The Conviction Voting parameters \(together with the 1hive defaults\) are:
+The Conviction Voting app parameters \(together with the 1hive defaults\) are:
 
 ```text
   "convictionGrowthHours": 48,

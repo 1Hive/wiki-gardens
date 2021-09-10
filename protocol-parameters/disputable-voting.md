@@ -1,12 +1,12 @@
 ---
 description: >-
-  Used to change protocol parameters or smart contract updates. Actions that
-  require making discrete, binary choice decisions via voting.
+  Aragon app used to collectively update smart contracts and protocol parameters
+  (formerly known as disputable voting)
 ---
 
-# Tao voting
+# Tao Voting
 
-The Tao Voting parameters \(together with the 1hive defaults\) are:
+The [Tao Voting app](https://github.com/1Hive/disputable-voting) parameters \(together with the 1hive defaults\) are:
 
 ```text
 "voteMinAcceptanceQuorum": 0.1,
