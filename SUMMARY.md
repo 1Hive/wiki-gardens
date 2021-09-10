@@ -21,7 +21,7 @@
 * [Dynamic issuance](issuance-policy/dynamic-issuance.md)
 * [Fixed supply](issuance-policy/fixed-supply.md)
 
-## Apps and Parameters <a id="protocol-parameters"></a>
+## Configurable Parameters <a id="protocol-parameters"></a>
 
 * [Agreement](protocol-parameters/agreement.md)
 * [Conviction Voting](protocol-parameters/disputable-conviction-voting.md)
