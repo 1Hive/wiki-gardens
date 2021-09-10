@@ -4,7 +4,7 @@
 **Work in Progress.** Our documentation is a rapidly improving work in progress. If you have questions or feel like something is missing, feel free to ask on [Discord](https://discord.com/invite/M2EVG4MfR4) where we \(and our wonderful community\) are actively responding.
 {% endhint %}
 
-[1hive](https://wiki.1hive.org/) is the first Garden. The first of its kind of a new kind of DAO - a sufficiently decentralized, self-improving system, limited only by the community's collective imagination.
+[1hive](https://wiki.1hive.org/) is the first of its kind of a new kind of DAO - a sufficiently decentralized, self-improving system, limited only by the community's collective imagination.
 
 {% embed url="https://twitter.com/Not3Lau\_Capital/status/1433081051006439430" caption="Gardens is this, but for DAOs" %}
 
