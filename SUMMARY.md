@@ -4,11 +4,9 @@
 
 ## 🌻 Background
 
----
-
-* [Types of Gardens](garden-modes.md)
-* [Composability](composability.md)
-* [Sufficient decentralizion](sufficient-decentralizion.md)
+* [Types of Gardens](background/garden-modes.md)
+* [Composability](background/composability.md)
+* [Sufficient decentralizion](background/sufficient-decentralizion.md)
 
 ## On-chain governance
 
@@ -23,21 +21,21 @@
 * [Dynamic issuance](issuance-policy/dynamic-issuance.md)
 * [Fixed supply](issuance-policy/fixed-supply.md)
 
+## Off-chain governance
+
+* [Introduction](off-chain-governance/tips-on-creating-the-right-culture.md)
+* [Social spaces \(discord\)](off-chain-governance/social-spaces-discord.md)
+* [Forum \(discourse\)](off-chain-governance/forum-discourse.md)
+* [The role of the Covenant](off-chain-governance/the-role-of-the-covenant.md)
+* [How to suggest a proposal?](off-chain-governance/how-to-suggest-a-proposal.md)
+* [Proposal template](off-chain-governance/proposal-template.md)
+
 ## Protocol Parameters
 
 * [Agreement](protocol-parameters/agreement.md)
 * [Conviction Voting](protocol-parameters/disputable-conviction-voting.md)
 * [Tao voting](protocol-parameters/disputable-voting.md)
 * [Dynamic Issuance](protocol-parameters/dynamic-issuance.md)
-
-## Off-chain governance
-
-* [Forum \(discourse\)](off-chain-governance/forum-discourse.md)
-* [Social spaces \(discord\)](off-chain-governance/social-spaces-discord.md)
-* [The role of the Covenant](off-chain-governance/the-role-of-the-covenant.md)
-* [How to suggest a proposal?](off-chain-governance/how-to-suggest-a-proposal.md)
-* [Proposal template](off-chain-governance/proposal-template.md)
-* [Tips on creating the right culture](off-chain-governance/tips-on-creating-the-right-culture.md)
 
 ## 🌱 Garden summoners <a id="garden-creators"></a>
 
@@ -53,7 +51,7 @@
 
 ## 👩‍🌾 Actions for Community Members
 
-* [Creating Your Account](actions-for-community-members/enabling-your-account.md.md)
+* [Creating Your Account](actions-for-community-members/creating-your-account.md)
 * [Wrap your Tokens](actions-for-community-members/wrap-your-tokens.md)
 * [Sign the Covenant](actions-for-community-members/signing-the-covenant.md)
 * [Deposit Collateral](actions-for-community-members/deposit-collateral.md)

@@ -2,7 +2,7 @@
 
 The alternative to [settling a dispute ](settle-a-proposal.md)is to raise the dispute to [Celeste](https://wiki.1hive.org/projects/celeste).
 
-![](../.gitbook/assets/screenshot-2021-05-26-at-15.41.05%20%282%29%20%281%29.png)
+![](../.gitbook/assets/screenshot-2021-05-26-at-15.41.05%20%282%29%20%282%29%20%281%29.png)
 
 You'll need to provide a little bit more collateral, but you'll get it back if Celeste rules in your favour.
 

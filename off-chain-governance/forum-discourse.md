@@ -1,6 +1,10 @@
 # Forum \(discourse\)
 
-> TODO
+## Member roles
 
-[https://github.com/discourse/discourse](https://github.com/discourse/discourse)
+## Structure
+
+## Place in the governance ecosystem
+
+
 

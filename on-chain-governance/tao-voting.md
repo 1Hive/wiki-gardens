@@ -40,7 +40,7 @@ Tao voting can be used to propose changes to the [Covenant](covenant.md).
 
 ### **Protocol parameters**
 
-Tao voting can be used to update the DAO's [protocol parameters]().
+Tao voting can be used to update the DAO's protocol parameters.
 
 ## Relationship with Dandelion voting
 

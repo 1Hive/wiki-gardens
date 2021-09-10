@@ -83,7 +83,7 @@ Let's unpack the above configuration.
 
 ### Type Of Garden
 
-First, you have to decide [which type of Garden is the best fit for you](../garden-modes.md).
+First, you have to decide [which type of Garden is the best fit for you](../background/garden-modes.md).
 
 If you decide to deploy **Native Token Garden** you have to set the:
 
