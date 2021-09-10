@@ -53,6 +53,7 @@
 
 ## 👩‍🌾 Actions for Community Members
 
+* [Creating Your Account](actions-for-community-members/enabling-your-account.md.md)
 * [Wrap your Tokens](actions-for-community-members/wrap-your-tokens.md)
 * [Sign the Covenant](actions-for-community-members/signing-the-covenant.md)
 * [Deposit Collateral](actions-for-community-members/deposit-collateral.md)
@@ -62,7 +63,6 @@
 * [Settle a Dispute](actions-for-community-members/settle-a-proposal.md)
 * [Raise to Celeste](actions-for-community-members/raise-to-celeste.md)
 * [Homepage stats](actions-for-community-members/homepage-stats.md)
-* [Profile](actions-for-community-members/profile.md)
 
 ## Security
 
