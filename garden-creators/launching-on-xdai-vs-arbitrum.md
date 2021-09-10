@@ -1,4 +1,4 @@
-# Launching on xdai vs arbitrum
+# Launching on xDai vs Arbitrum
 
 > TODO
 
