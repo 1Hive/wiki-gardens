@@ -1,7 +1,7 @@
 ---
 description: >-
   Aragon app used to collectively update smart contracts and protocol parameters
-  (formerly disputable voting)
+  (formerly called Disputable Voting)
 ---
 
 # Tao Voting
