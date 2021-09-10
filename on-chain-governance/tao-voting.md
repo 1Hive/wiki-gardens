@@ -2,7 +2,7 @@
 description: 'To transform the DAO: changes to protocol parameters or smart contract updates'
 ---
 
-# Tao voting
+# Tao Voting
 
 > Right now **there is no user interface for the creation of a Tao vote**. A technical user must prepare a transaction which creates a Tao vote. Its best practice for such transactions to be reviewed by many people publicly before they are submitted. 
 >

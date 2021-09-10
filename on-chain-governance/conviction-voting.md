@@ -2,7 +2,7 @@
 description: To signal support and allocate funds
 ---
 
-# Conviction voting
+# Conviction Voting
 
 _Conviction voting is the heart of a Garden._ It allows folks to signal their preferences continuously rather than forcing them to “make a decision.” From the perspective of a community member, this is as easy as just showing up and supporting the things you care about.
 

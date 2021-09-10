@@ -12,9 +12,9 @@
 
 * [Three Pillars](on-chain-governance/garden-framework.md)
 * [Covenant](on-chain-governance/covenant.md)
-* [Conviction voting](on-chain-governance/conviction-voting.md)
+* [Conviction Voting](on-chain-governance/conviction-voting.md)
 * [Celeste](on-chain-governance/celeste.md)
-* [Tao voting](on-chain-governance/tao-voting.md)
+* [Tao Voting](on-chain-governance/tao-voting.md)
 
 ## Issuance policy
 
