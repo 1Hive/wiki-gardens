@@ -1,7 +1,7 @@
 ---
 description: >-
   You need to deposit some collateral in case another community member
-  challenges a proposal you make
+  challenges a proposal you make.
 ---
 
 # Deposit Collateral

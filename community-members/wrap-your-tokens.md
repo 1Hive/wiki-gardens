@@ -1,7 +1,7 @@
 ---
 description: >-
-  If you are bringing in an existing token, we wrap your token in a Minime
-  because the Garden needs some extra functions
+  If you are bringing in an existing token (Boboli Garden), we wrap your token in a Minime
+  because the Garden needs some extra functions.
 ---
 
 # Wrap Your Tokens
