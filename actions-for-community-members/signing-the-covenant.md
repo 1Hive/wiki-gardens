@@ -4,7 +4,7 @@ description: >-
   equivalent to a community's social contract / constitution
 ---
 
-# Sign the Covenant
+# Sign the covenant
 
 Anyone willing to create a proposal has to abide by their community's covenant. Any proposal which violates the spirit of the covenant can be challenged and taken to [Celeste](https://1hive.gitbook.io/celeste/).
 
