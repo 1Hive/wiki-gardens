@@ -53,6 +53,15 @@
 * [Raise to Celeste](actions-for-community-members/raise-to-celeste.md)
 * [Homepage stats](actions-for-community-members/homepage-stats.md)
 
+## Off-chain governance
+
+* [Introduction](off-chain-governance/tips-on-creating-the-right-culture.md)
+* [Social spaces \(discord\)](off-chain-governance/social-spaces-discord.md)
+* [Forum \(discourse\)](off-chain-governance/forum-discourse.md)
+* [The role of the Covenant](off-chain-governance/the-role-of-the-covenant.md)
+* [How to suggest a proposal?](off-chain-governance/how-to-suggest-a-proposal.md)
+* [Proposal template](off-chain-governance/proposal-template.md)
+
 ## Architecture
 
 * [Aragon OS](architecture/aragon-os.md)
@@ -76,13 +85,4 @@
 * [Solving the multisig problem](philosophy/the-multisig-problem.md)
 * [Solving the funding allocation problem](philosophy/solving-the-funding-allocation-problem.md)
 * [Moving beyond naive coin voting governance](philosophy/moving-beyond-naive-coin-voting-governance.md)
-
-## Off-chain governance
-
-* [Introduction](off-chain-governance/tips-on-creating-the-right-culture.md)
-* [Social spaces \(discord\)](off-chain-governance/social-spaces-discord.md)
-* [Forum \(discourse\)](off-chain-governance/forum-discourse.md)
-* [The role of the Covenant](off-chain-governance/the-role-of-the-covenant.md)
-* [How to suggest a proposal?](off-chain-governance/how-to-suggest-a-proposal.md)
-* [Proposal template](off-chain-governance/proposal-template.md)
 
