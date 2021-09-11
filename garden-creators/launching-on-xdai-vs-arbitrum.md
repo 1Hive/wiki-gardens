@@ -1,4 +1,4 @@
-# Launching on xDai vs Arbitrum
+# Supported networks
 
 > TODO
 
