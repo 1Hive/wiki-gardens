@@ -58,6 +58,7 @@
 * [Introduction](off-chain-governance/tips-on-creating-the-right-culture.md)
 * [Social spaces \(discord\)](off-chain-governance/social-spaces-discord.md)
 * [Forum \(discourse\)](off-chain-governance/forum-discourse.md)
+* [Syncing discord and discourse](off-chain-governance/syncing-discord-and-discourse.md)
 * [The role of the Covenant](off-chain-governance/the-role-of-the-covenant.md)
 * [How to suggest a proposal?](off-chain-governance/how-to-suggest-a-proposal.md)
 * [Proposal template](off-chain-governance/proposal-template.md)
