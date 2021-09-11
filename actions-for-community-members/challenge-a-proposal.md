@@ -24,5 +24,5 @@ description: >-
 
 5. View confirmation
 
-![](../.gitbook/assets/screenshot-2021-05-25-at-17.52.04%20%281%29%20%281%29.png)
+![](../.gitbook/assets/screenshot-2021-05-25-at-17.52.04%20%281%29.png)
 
