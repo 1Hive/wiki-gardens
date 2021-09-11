@@ -1,4 +1,4 @@
-# Supported networks
+# Supported Networks
 
 > TODO
 

@@ -1,4 +1,4 @@
-# Syncing discord and discourse
+# Syncing Discord and Discourse
 
 > TODO
 

@@ -1,4 +1,4 @@
-# Honeyswap liquidity
+# Honeyswap Liquidity
 
 One of the steps we ask of you that may seem counter-intuitive is the need to provide $100 of initial liquidity \(between your GDN token and HNY\) on [Honeyswap](https://wiki.1hive.org/projects/honeyswap).
 

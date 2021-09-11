@@ -4,7 +4,7 @@ description: >-
   Celeste provide a framework for effective on-chain governance
 ---
 
-# Three Pillars
+# The Three Pillars
 
 A Garden has three main pillars:
 

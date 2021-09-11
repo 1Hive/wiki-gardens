@@ -1,4 +1,4 @@
-# Sufficient decentralizion
+# Sufficient Decentralizion
 
 Gardens are designed to be operationally decentralized and autonomous from day one. 
 

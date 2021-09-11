@@ -1,4 +1,4 @@
-# Token manager hooks
+# Token Manager Hooks
 
 [https://forum.1hive.org/t/are-token-manager-hooks-useful-anymore/4288](https://forum.1hive.org/t/are-token-manager-hooks-useful-anymore/4288)
 

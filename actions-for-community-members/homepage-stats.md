@@ -1,2 +1,2 @@
-# Homepage stats
+# Homepage Stats
 

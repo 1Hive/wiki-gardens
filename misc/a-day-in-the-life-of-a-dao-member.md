@@ -1,4 +1,4 @@
-# A day in the life of a DAO
+# A Day in the Life of a DAO
 
 > TODO
 

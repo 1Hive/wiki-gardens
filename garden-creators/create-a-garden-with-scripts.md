@@ -1,4 +1,4 @@
-# Create a Garden with scripts
+# Create a Garden \(with scripts\)
 
 ## Setup
 

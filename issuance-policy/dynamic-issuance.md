@@ -1,4 +1,4 @@
-# Dynamic issuance
+# Dynamic Issuance
 
 Veneto Gardens can choose a dynamic supply policy that can burn and issue tokens from the common pool automatically. The default parameters are inherited from [1hive's issuance policy](https://forum.1hive.org/t/dynamic-honey-supply-policy-proposal/2224).
 

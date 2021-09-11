@@ -2,7 +2,7 @@
 description: Gardens provide an elegant solution to the funding allocation problem
 ---
 
-# Solving the funding allocation problem
+# Solving the Funding Allocation Problem
 
 The process of allocating funds in DAOs today feels very slow and cumbersome, typically requiring a series of yes/no votes evaluated independently.
 

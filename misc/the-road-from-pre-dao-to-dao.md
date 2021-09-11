@@ -1,4 +1,6 @@
-# The road from pre-DAO to DAO
+# The Road from Pre-DAO to DAO
 
 > TODO
+
+
 

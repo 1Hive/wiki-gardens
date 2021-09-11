@@ -1,4 +1,4 @@
-# The role of the Covenant
+# The Role of the Covenant
 
 You can use the Covenant to create behavioural expectations within Community spaces such as Discourse, and Discord.
 

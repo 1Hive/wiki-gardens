@@ -2,7 +2,7 @@
 description: Gardens provide an elegant solution to the multisig problem plaguing most DAOs
 ---
 
-# Solving the multisig problem
+# Solving the Multisig Problem
 
 Governance by plutocracy is simply not a sustainable way of running a DAO.
 

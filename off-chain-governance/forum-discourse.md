@@ -2,7 +2,7 @@
 description: For more structured discussions
 ---
 
-# Forum \(discourse\)
+# Forum \(Discourse\)
 
 Discourse is quickly become the gold standard for more structured discussions amongst web3 communities.
 

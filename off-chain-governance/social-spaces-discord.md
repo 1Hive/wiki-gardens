@@ -2,7 +2,7 @@
 description: For more informal conversations
 ---
 
-# Social spaces \(discord\)
+# Social Spaces \(Discord\)
 
 Discord has become the de facto venue where people can learn about a protocol, meet community members and discover ways to participate in the network.
 
