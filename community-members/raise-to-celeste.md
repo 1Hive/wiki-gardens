@@ -1,3 +1,8 @@
+---
+description: >-
+If you don't agree with the challenger's argument on your proposal you can raise the issue to Celeste.
+---
+
 # Raise to Celeste
 
 If you're proposal has been challenged you have two options, either [settle the dispute](settle-a-proposal.md) or raise it to Celeste. We will go over the process of raising a dispute to [Celeste](https://wiki.1hive.org/projects/celeste) in this article.

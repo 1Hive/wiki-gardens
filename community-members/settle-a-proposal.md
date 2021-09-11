@@ -1,3 +1,8 @@
+---
+description: >-
+Sometimes proposals need to be withdrawn. Gardens has a process for that.
+---
+
 # Settle a dispute
 
 If a community member challenges a proposal you've made, you'll be able to see this in the Deposit Manager view -- the status of the proposal will be marked as `CHALLENGED`.

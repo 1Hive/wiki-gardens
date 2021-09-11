@@ -1,5 +1,6 @@
 ---
-description: 'The longer you stake your tokens on a proposal, the more support it accrues'
+description: >-
+ 'The longer you stake your tokens on a proposal, the more support it accrues'
 ---
 
 # Support a proposal

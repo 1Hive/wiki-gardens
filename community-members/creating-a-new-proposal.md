@@ -1,5 +1,6 @@
 ---
-description: You only need a tiny bit of stake in order to be able to create a proposal
+description: >-
+ Gardens makes it easy for community members to draft proposals for their community.
 ---
 
 # Create a proposal

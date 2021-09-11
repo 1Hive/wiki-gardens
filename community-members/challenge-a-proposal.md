@@ -1,7 +1,7 @@
 ---
 description: >-
   Anyone can challenge a proposal which isn't in line with the values of the
-  community
+  community.
 ---
 
 # Challenge a proposal
