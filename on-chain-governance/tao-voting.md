@@ -8,7 +8,7 @@ description: 'To transform the DAO: changes to protocol parameters or smart cont
 >
 > We are working on a UI to allow anyone to be able to create a Tao vote. In the meantime, we are happy to guide non-technical users through the process.
 
-Tao voting is a special form of voting \(requiring community consensus around discrete, binary choice decisions\). It is used to update governance parameters \(metagovernance\), as well as anything that fundamentally changes or transforms the DAO's DNA.
+Tao voting \(aka decision voting\) is a special form of voting \(requiring community consensus around discrete, binary choice decisions\). It is used to update governance parameters \(metagovernance\), as well as anything that fundamentally changes or transforms the DAO's DNA.
 
 From a design perspective, Gardens aims to minimise the need to make discrete decisions, favouring bottom up decision making and local autonomy of participants.  As such Tao votes are not expected to be used for day to day operations or for determining strategic direction.
 
