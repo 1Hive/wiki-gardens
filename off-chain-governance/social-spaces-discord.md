@@ -12,9 +12,11 @@ Discord has a [roles feature](https://support.discord.com/hc/en-us/articles/2148
 
 ## Channel Structure
 
+> In the beginning, there was \#general... ...but soon after came \#off-topic and \#crafting. Channels flourished and the Server grew. The Admin said "let me sort mine channels!" and Discord said "mine robo-hamsters shall make it so."
 
+Channels can be grouped into categories. And categories, like channels, can be given their own permissions.
 
-
+Taken together, channels and categories allow you to help shape the architecture of your discord.
 
 ## Place in the governance ecosystem
 
@@ -23,4 +25,6 @@ Discord has a [roles feature](https://support.discord.com/hc/en-us/articles/2148
 ## Recommended reading
 
 * Some good advice on [setting up your community server](https://blog.discord.com/how-to-get-the-most-out-of-your-community-server-a049d126f2ac)
+* [Channel categories 101](https://support.discord.com/hc/en-us/articles/115001580171-Channel-Categories-101)
+* [Advanced Community Server Setup](https://support.discord.com/hc/en-us/articles/213530048-Advanced-Community-Server-Setup)
 
