@@ -12,7 +12,7 @@ You'll need to provide a little bit more collateral, but you'll get it back if C
 
 ![](../.gitbook/assets/createDispute.png)
 
-To keep track of the dispute, click on the Celeste link in the Disputable Action box next to the proposal in question. This will take you to the Celeste platform, which is a separate entity from Gardens.
+To keep track of the dispute, click on the Celeste link in the Disputable Action box next to the proposal in question. This will take you to the Celeste platform.
 
 ![](../.gitbook/assets/seeDispute.png)
 
@@ -26,5 +26,5 @@ Scroll down to keep track of the status of your dispute.
 
 The dispute is now out of your hands. Celeste will draft a decentralized group of Keepers who will decide on whether or not your proposal violates your community's covenant -- the initial ruling will take roughly 7 days.
 
-> **Note:** If either party is unhappy with the initial ruling, they can choose to stake some more collateral and raise the dispute to an even larger group of Keepers. To learn more about the lifecycle of a dispute, [see here](https://1hive.gitbook.io/celeste/keepers/dispute-lifecycle).
+> **Note:** If either party is unhappy with the initial ruling, they can choose to top up their deposit and raise the dispute to an even larger group of Keepers. To learn more about the lifecycle of a dispute, [see here](https://1hive.gitbook.io/celeste/keepers/dispute-lifecycle).
 
