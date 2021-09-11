@@ -1,5 +1,9 @@
 # Talks and Videos
 
+### **Gardens: fulfilling the promise of effective on-chain governance \(ETHCC talk\)**
+
+{% embed url="https://www.youtube.com/watch?v=-wwz414Ypn0&t=131s" %}
+
 ### [1Hive: How to DAO](https://www.buzzsprout.com/1773486/8452251-how-to-dao-with-luke)
 
 * Date: May 2021

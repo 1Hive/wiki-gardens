@@ -11,6 +11,7 @@
 * [Gardens repo](https://github.com/1Hive/gardens)
 * [A brief history of Conviction voting](https://michaelzargham.medium.com/a-brief-history-of-conviction-voting-ad4ca4eb4aee)
 * [What is 1Hive?](https://forum.1hive.org/t/together-we-thrive/1278)
+* [Gardens landing page](https://gardens.1hive.org/)
 
 
 
