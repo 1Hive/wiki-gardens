@@ -51,7 +51,6 @@
 * [Challenge a Proposal](actions-for-community-members/challenge-a-proposal.md)
 * [Settle a Dispute](actions-for-community-members/settle-a-proposal.md)
 * [Raise to Celeste](actions-for-community-members/raise-to-celeste.md)
-* [Homepage Stats](actions-for-community-members/homepage-stats.md)
 
 ## Off-chain governance
 
@@ -60,8 +59,8 @@
 * [Forum \(Discourse\)](off-chain-governance/forum-discourse.md)
 * [Syncing Discord and Discourse](off-chain-governance/syncing-discord-and-discourse.md)
 * [The Role of the Covenant](off-chain-governance/the-role-of-the-covenant.md)
-* [How to Suggest a Proposal?](off-chain-governance/how-to-suggest-a-proposal.md)
 * [Proposal template](off-chain-governance/proposal-template.md)
+* [How to Suggest a Proposal?](off-chain-governance/how-to-suggest-a-proposal.md)
 
 ## Architecture
 

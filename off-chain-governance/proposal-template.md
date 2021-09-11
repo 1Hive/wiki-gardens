@@ -1,5 +1,7 @@
 ---
-description: Template used by 1hive
+description: >-
+  Template used by 1hive - Proposals are tagged with the Proposal category and
+  posted in the Forum
 ---
 
 # Proposal template
