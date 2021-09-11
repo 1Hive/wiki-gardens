@@ -16,7 +16,7 @@ Discord has a [roles feature](https://support.discord.com/hc/en-us/articles/2148
 
 Channels can be grouped into categories. And categories, like channels, can be given their own permissions.
 
-Taken together, channels and categories allow you to help shape the architecture of your discord.
+Taken together, channels and categories allow you to shape the architecture of your discord.
 
 ## Place in the governance ecosystem
 
@@ -24,7 +24,10 @@ Taken together, channels and categories allow you to help shape the architecture
 
 ## Recommended reading
 
+* Guide on [starting your first discord server](%20https://blog.discord.com/starting-your-first-discord-server-4dcacda8dad5)
 * Some good advice on [setting up your community server](https://blog.discord.com/how-to-get-the-most-out-of-your-community-server-a049d126f2ac)
 * [Channel categories 101](https://support.discord.com/hc/en-us/articles/115001580171-Channel-Categories-101)
 * [Advanced Community Server Setup](https://support.discord.com/hc/en-us/articles/213530048-Advanced-Community-Server-Setup)
+
+
 
