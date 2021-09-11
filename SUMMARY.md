@@ -81,9 +81,11 @@
 * [Further Reading](additional-resources/general-resources.md)
 * [General Resources](additional-resources/general-resources-1.md)
 
-## Philosophy
+## Misc
 
-* [Solving the multisig problem](philosophy/the-multisig-problem.md)
-* [Solving the funding allocation problem](philosophy/solving-the-funding-allocation-problem.md)
-* [Moving beyond naive coin voting governance](philosophy/moving-beyond-naive-coin-voting-governance.md)
+* [Solving the multisig problem](misc/the-multisig-problem.md)
+* [Solving the funding allocation problem](misc/solving-the-funding-allocation-problem.md)
+* [Moving beyond naive coin voting governance](misc/moving-beyond-naive-coin-voting-governance.md)
+* [The road from pre-DAO to DAO](misc/the-road-from-pre-dao-to-dao.md)
+* [A day in the life of a DAO member](misc/a-day-in-the-life-of-a-dao-member.md)
 
