@@ -85,5 +85,5 @@
 * [Solving the Funding Allocation Problem](misc/solving-the-funding-allocation-problem.md)
 * [Moving Beyond Naive Coin Voting Governance](misc/moving-beyond-naive-coin-voting-governance.md)
 * [The Road from Pre-DAO to DAO](misc/the-road-from-pre-dao-to-dao.md)
-* [A Day in the Life](misc/a-day-in-the-life-of-a-dao-member.md)
+* [A Day in the Life of Daoist](misc/a-day-in-the-life-of-a-dao-member.md)
 

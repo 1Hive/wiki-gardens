@@ -4,11 +4,9 @@
 **Work in Progress.** Our documentation is a rapidly improving work in progress. If you have questions or feel like something is missing, feel free to ask on [Discord](https://discord.com/invite/M2EVG4MfR4) where we \(and our wonderful community\) are actively responding.
 {% endhint %}
 
-[1hive](https://wiki.1hive.org/) is the first of its kind of a new kind of DAO - a sufficiently decentralized, self-improving system, limited only by the community's collective imagination.
+Gardens are a new kind of DAO - a sufficiently decentralized, self-improving system, limited only by the community's collective imagination.
 
 {% embed url="https://twitter.com/Not3Lau\_Capital/status/1433081051006439430?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1433081051006439430%7Ctwgr%5E%7Ctwcon%5Es1\_&ref\_url=https%3A%2F%2Fcdn.iframe.ly%2FLSPcpTE%3Fapp%3D1" caption="Gardens is this but for DAOs" %}
-
-Gardens is an initiative by 1hive to allow anyone to launch such a DAO.
 
 Communities can use Gardens to launch their own token or, if they prefer, to import a pre-existing ERC-20 token.
 
