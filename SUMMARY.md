@@ -58,6 +58,7 @@
 * [Aragon OS](architecture/aragon-os.md)
 * [Aragon Apps](architecture/aragon-apps.md)
 * [Token manager hooks](architecture/architecture.md)
+* [Multi-chain Celeste](architecture/multi-chain-celeste.md)
 
 ## Roadmap
 
