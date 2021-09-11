@@ -6,7 +6,9 @@ description: 'The longer you stake your tokens on a proposal, the more support i
 
 If you are a member of a [Boboli \(Imported\) Token Garden](../background/garden-modes.md#pre-existing-token-gardens), please make sure you have [wrapped](wrap-your-tokens.md) a portion of your tokens. You won't be able to use unwrapped tokens to support proposals.
 
-Supporting a proposal is equivalent to staking your token on that proposal. It provides a way to signal the strength of your conviction -- the more you stake, and the longer you stake it for, the greater the conviction. If and when enough conviction has accumulated the proposal will be executed.
+Supporting a proposal is equivalent to staking your token on that proposal. It provides a way to signal the strength of your conviction -- the more you use to support, and the longer you support a proposal for, the greater the conviction.
+
+If and when enough conviction has accumulated, the proposal will pass, and the appropriate funds will be released from the Common Pool.
 
 ![Proposal screen](../.gitbook/assets/proposalScreen.png)
 
@@ -14,7 +16,9 @@ Review the Proposal's attached link \(which should point to a relevant post in y
 
 ## Conviction voting: finer details
 
-Conviction Voting allows proposals to be created and considered continuously and simultaneously. Community members can signal their preferences for the proposals they support, however once tokens are staked on a proposal they cannot be staked on other proposals unless the proposal is withdrawn, executed or you unstake your tokens, removing your support.
+Conviction Voting allows proposals to be created and considered continuously and simultaneously.
+
+Community members can signal their preferences for the proposals they support, however once tokens are tokens used to support a proposal cannot be used to support another proposal at the same time.
 
 When you start supporting a proposal, the support \(called conviction\) does not immediately apply, but instead must charge up over time according to a logarithmic growth function or half-life.
 
