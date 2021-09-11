@@ -42,10 +42,10 @@
 
 ## 👩‍🌾 Actions for Community Members
 
-* [Creating Your Account](actions-for-community-members/creating-your-account.md)
+* [Create Your Account](actions-for-community-members/creating-your-account.md)
 * [Wrap your Tokens](actions-for-community-members/wrap-your-tokens.md)
 * [Sign the Covenant](actions-for-community-members/signing-the-covenant.md)
-* [Deposit Collateral](actions-for-community-members/deposit-collateral.md)
+* [Deposit Funds](actions-for-community-members/deposit-collateral.md)
 * [Support a Proposal](actions-for-community-members/supporting-proposals.md)
 * [Create a Proposal](actions-for-community-members/creating-a-new-proposal.md)
 * [Challenge a Proposal](actions-for-community-members/challenge-a-proposal.md)

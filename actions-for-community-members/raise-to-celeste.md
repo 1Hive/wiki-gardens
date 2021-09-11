@@ -6,7 +6,7 @@ Looking at your challenged proposal on the right side click on `Raise to Celeste
 
 ![](../.gitbook/assets/viewChallenge.png)
 
-You'll need to provide a bit of Honey (HNY) in order to pay the jurors who will rule over your challenged proposal, also known as a "Dispute". Make sure you have enough HNY in your wallet and the terms of Celeste are up to date. Proceed by clicking `Create Dispute` and sign the transactions.  
+You'll need to provide a bit of Honey \(HNY\) in order to pay the jurors who will rule over your challenged proposal, also known as a "Dispute". Make sure you have enough HNY in your wallet and the terms of Celeste are up to date. Proceed by clicking `Create Dispute` and sign the transactions.
 
 You'll need to provide a little bit more collateral, but you'll get it back if Celeste rules in your favour.
 
@@ -27,3 +27,4 @@ Scroll down to keep track of the status of your dispute.
 The dispute is now out of your hands. Celeste will draft a decentralized group of Keepers who will decide on whether or not your proposal violates your community's covenant -- the initial ruling will take roughly 7 days.
 
 > **Note:** If either party is unhappy with the initial ruling, they can choose to stake some more collateral and raise the dispute to an even larger group of Keepers. To learn more about the lifecycle of a dispute, [see here](https://1hive.gitbook.io/celeste/keepers/dispute-lifecycle).
+

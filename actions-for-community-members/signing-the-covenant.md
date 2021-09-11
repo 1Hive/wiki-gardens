@@ -4,11 +4,11 @@ description: >-
   equivalent to a community's social contract / constitution
 ---
 
-# Sign the covenant
+# Sign the Covenant
 
 Anyone willing to create a proposal has to abide by their community's covenant. Any proposal which violates the spirit of the covenant can be challenged and taken to [Celeste](https://1hive.gitbook.io/celeste/).
 
-The details are specific to each Garden. They include the IPFS hash of the content, and the binding actions that signing it will allow. 
+The details are specific to each Garden. They include the IPFS hash of the content, and the binding actions that signing it will allow.
 
 ![Covenant screen](../.gitbook/assets/screen-shot-2021-05-20-at-6.03.24-pm.png)
 
