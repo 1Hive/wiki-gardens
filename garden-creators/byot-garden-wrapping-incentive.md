@@ -1,4 +1,4 @@
-# Governance incentives for pre-existing token Gardens
+# Governance Incentives
 
 For pre-existing token Gardens, a farming contract is deployed during creation. Anyone can deposit the original token, that's available for distribution within the Garden, to this farming contract. This deposit can be claimed by users who have wrapped the pre-existing token Garden's original token to earn governance rights in the Garden.
 
