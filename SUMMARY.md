@@ -53,10 +53,11 @@
 * [Raise to Celeste](actions-for-community-members/raise-to-celeste.md)
 * [Homepage stats](actions-for-community-members/homepage-stats.md)
 
-## Security
+## Architecture
 
-* [Aragon OS](security/aragon-os.md)
-* [Architecture](security/architecture.md)
+* [Aragon OS](architecture/aragon-os.md)
+* [Aragon Apps](architecture/aragon-apps.md)
+* [Token manager hooks](architecture/architecture.md)
 
 ## Roadmap
 
