@@ -15,7 +15,7 @@ The additional apps are listed here:
 
 The only app an out of the box Garden needs to use from the base template is the Agent app. 
 
-We actually create two instances of Agent, one for the Common Pool, and the other for the treasury assets the community would like to have as part of their treasury.
+We actually create two instances of Agent, one for the Common Pool, and the other for treasury assets that are not part of the Common Pool \( assets which are held in another token or which are not distributable through conviction voting\).
 
 
 
