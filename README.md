@@ -8,7 +8,7 @@
 
 {% embed url="https://twitter.com/Not3Lau\_Capital/status/1433081051006439430" caption="Gardens is this, but for DAOs" %}
 
-After years of experimentation, we feel we've learnt enough to allow anyone to launch such a DAO. Gardens is an initiative by [1hive](https://about.1hive.org/docs/dao) to allow anyone to launch such a DAO.
+After years of experimentation, we feel we've learnt enough to allow anyone to launch such a DAO. Gardens is this initiative.
 
 Communities can use Gardens to launch their own token or, if they prefer, to import a pre-existing ERC-20 token.
 
