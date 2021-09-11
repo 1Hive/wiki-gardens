@@ -1,7 +1,3 @@
----
-description: 1hive is the first Garden.
----
-
 # Introduction
 
 {% hint style="info" %}
