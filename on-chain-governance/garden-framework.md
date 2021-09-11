@@ -14,5 +14,5 @@ A Garden has three main pillars:
 
 Conviction Voting \(Continous Signal Voting\), Community Covenants \(Aragon Agreements\), and Celeste \(a BrightID integrated Aragon Court\), are perhaps three of the most important pieces of decentralised software ever written.
 
-Taken together, they allow us to fulfil the promise of effective community-driven on-chain governance.
+We believe that, taken together, they allow us to fulfil the promise of effective community-driven on-chain governance.
 
