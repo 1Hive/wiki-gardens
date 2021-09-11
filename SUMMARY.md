@@ -38,7 +38,7 @@
 
 ## ⚠️ Requirements
 
-* [Honeyswap initial liquidity](requirements/honeyswap.md)
+* [Honeyswap liquidity](requirements/honeyswap.md)
 
 ## 👩‍🌾 Actions for Community Members
 
