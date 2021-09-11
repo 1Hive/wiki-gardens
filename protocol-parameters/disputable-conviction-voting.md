@@ -1,5 +1,7 @@
 ---
-description: Aragon app used to collectively allocate funds from a shared treasury
+description: >-
+  Aragon app used to gauge community sentiment and allocate funds from a shared
+  treasury
 ---
 
 # Conviction Voting
