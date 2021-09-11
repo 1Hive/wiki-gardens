@@ -1,5 +1,5 @@
 ---
-description: You only need a tiny bit of stake in order to be able to create a proposal
+description: You only need a small amount of funds in order to be able to create a proposal
 ---
 
 # Create a Proposal
@@ -14,7 +14,7 @@ Suggestions, which include things like the _abstain proposal,_ are proposals whi
 
 Suggestions can accumulate support, but unlike Funding Proposals they are not made to pass. Instead, supporting a suggestion increases the amount of support required for any Funding Proposals to pass.
 
-As such, a suggestion that makes the case for how you think the community should actually be allocating resources can have a meaningful impact on the behaviour of the system. Suggestions however can be challenged and escalated the same as Funding Proposals.
+As such, a suggestion that makes the case for how you think the community should actually be allocating resources can have a meaningful impact on the behaviour of the system. Suggestions however can be challenged and escalated in the same way as Funding Proposals.
 
 ![You can choose to make a Suggestion or Funding proposal from here](../.gitbook/assets/proposalForm.png)
 
