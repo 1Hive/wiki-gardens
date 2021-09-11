@@ -1,3 +1,7 @@
+---
+description: The operating system behind Gardens
+---
+
 # Aragon OS
 
 > TODO
