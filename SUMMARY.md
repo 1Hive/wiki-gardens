@@ -9,6 +9,7 @@
 * [Create a Garden \(with scripts\)](garden-creators/create-a-garden-with-scripts.md)
 * [Governance Incentives](garden-creators/byot-garden-wrapping-incentive.md)
 * [Price Oracle](garden-creators/price-oracle.md)
+* [Honeyswap Liquidity](garden-creators/honeyswap.md)
 
 ## 👩‍🌾 Community Members <a id="actions-for-community-members"></a>
 
@@ -41,10 +42,6 @@
 * [Conviction Voting](protocol-parameters/disputable-conviction-voting.md)
 * [Tao Voting](protocol-parameters/disputable-voting.md)
 * [Dynamic Issuance](protocol-parameters/dynamic-issuance.md)
-
-## ⚠️ Requirements
-
-* [Honeyswap Liquidity](requirements/honeyswap.md)
 
 ## Off-chain governance
 

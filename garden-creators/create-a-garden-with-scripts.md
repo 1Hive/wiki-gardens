@@ -93,14 +93,14 @@ If you decide to deploy a[ Veneto Garden](garden-modes.md#veneto-gardens) you ha
 * **Seeds:** a list of addresses that will be minted the specified amount of tokens.
 * **Common pool amount:** the ****number of tokens that will be minted to the common pool.
 * **Honey token liquidity in xDai:** the honey deposit quantified in terms of xdai - must be at least 100 or the garden creation will revert.
-* **Garden token liquidity:** the ****initial number of tokens that will be used to [create a pair in Honeyswap](../requirements/honeyswap.md) with HNY.
+* **Garden token liquidity:** the ****initial number of tokens that will be used to [create a pair in Honeyswap](honeyswap.md) with HNY.
 
 If you decide to deploy a [Boboli Garden](garden-modes.md#boboli-gardens) you have to choose:
 
 * **Existing token:** must be the address of the community's current ERC20 token.
 * **Garden token name:** the name of the new token received when wrapping the existent. We recommend following the convention: Existing `Token Name` -&gt; `Garden Token Name` eg `Honey` -&gt; `Garden Honey`
 * **Garden token symbol:** the symbol of the new token received when wrapping the existing token. We recommend following the convention: `TKN` -&gt; `gTKN`.
-* **Existing token liquidity:** the ****initial number of tokens that will be used to [create a pair in Honeyswap](../requirements/honeyswap.md) with $100 worth of HNY.
+* **Existing token liquidity:** the ****initial number of tokens that will be used to [create a pair in Honeyswap](honeyswap.md) with $100 worth of HNY.
 
 ### Community Covenant
 
