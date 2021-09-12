@@ -4,7 +4,7 @@ If you're proposal has been challenged you have two options, either [settle the 
 
 Looking at your challenged proposal on the right side click on `Raise to Celeste`.
 
-![](../.gitbook/assets/viewChallenge.png)
+![](../.gitbook/assets/viewChallenge%20%281%29.png)
 
 You'll need to provide a bit of Honey \(HNY\) in order to pay the jurors who will rule over your challenged proposal, also known as a "Dispute". Make sure you have enough HNY in your wallet and the terms of Celeste are up to date. Proceed by clicking `Create Dispute` and sign the transactions.
 
