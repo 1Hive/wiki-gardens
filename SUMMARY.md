@@ -2,8 +2,6 @@
 
 * [Introduction](README.md)
 
-## 🌻 Background
-
 ## 🌱 Garden summoners <a id="garden-creators"></a>
 
 * [Types of Gardens](garden-creators/garden-modes.md)
@@ -12,7 +10,7 @@
 * [Governance Incentives](garden-creators/byot-garden-wrapping-incentive.md)
 * [Price Oracle](garden-creators/price-oracle.md)
 
-## 👩‍🌾 Actions for Community Members
+## 👩‍🌾 Community Members <a id="actions-for-community-members"></a>
 
 * [Create Your Account](actions-for-community-members/creating-your-account.md)
 * [Wrap your Tokens](actions-for-community-members/wrap-your-tokens.md)

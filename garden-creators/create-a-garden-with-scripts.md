@@ -85,7 +85,7 @@ Let's unpack the above configuration.
 
 First, you have to decide [which type of Garden is the best fit for you](garden-modes.md).
 
-If you decide to deploy **Native Token Garden** you have to set the:
+If you decide to deploy a[ Veneto Garden](garden-modes.md#veneto-gardens) you have to set the:
 
 * **Existing token:** must be the zero address `0x0000000000000000000000000000000000000000`
 * **Garden token name:** the name of the new token that will be created.
@@ -95,7 +95,7 @@ If you decide to deploy **Native Token Garden** you have to set the:
 * **Honey token liquidity in xDai:** the honey deposit quantified in terms of xdai - must be at least 100 or the garden creation will revert.
 * **Garden token liquidity:** the ****initial number of tokens that will be used to [create a pair in Honeyswap](../requirements/honeyswap.md) with HNY.
 
-If you decide to deploy **Bring Your Own Token Garden** you have to choose:
+If you decide to deploy a [Boboli Garden](garden-modes.md#boboli-gardens) you have to choose:
 
 * **Existing token:** must be the address of the community's current ERC20 token.
 * **Garden token name:** the name of the new token received when wrapping the existent. We recommend following the convention: Existing `Token Name` -&gt; `Garden Token Name` eg `Honey` -&gt; `Garden Honey`
@@ -104,22 +104,22 @@ If you decide to deploy **Bring Your Own Token Garden** you have to choose:
 
 ### Community Covenant
 
-As we explained in the [three pillars section](../on-chain-governance/garden-framework.md#community-covenant-to-encode-values), the Covenant will be one of the pillars of your community. Take your time to encode your community's values in it. Once you have it ready you should upload it with a markdown format to the [IPFS network](https://ipfs.io). We recommend using a pinning service like [Pinata](https://pinata.cloud/) to keep the content pinned and accessible. 
+As we explain in the [three pillars](../on-chain-governance/garden-framework.md#community-covenant-to-encode-values), [the Covenant](../on-chain-governance/covenant.md) will be one of the pillars of your community. Take your time to encode your community's values in it. Once you have it ready you should upload it with a markdown format to the [IPFS network](https://ipfs.io). We recommend using a pinning service like [Pinata](https://pinata.cloud/) to keep the content pinned and accessible. 
 
-Following you can see a couple of examples:
+Here are a couple of examples:
 
 * [1Hive's Covenant](https://ipfs.io/ipfs/QmfWppqC55Xc7PU48vei2XvVAuH76z2rNFF7JMUhjVM5xV)
 * [Agave's Covenant](https://ipfs.io/ipfs/QmfPADUzzPTda8LZsqQwpfquzG3awt8pFoCB2BQAuvEyFV)
 * [Giveth's Covenant](https://ipfs.io/ipfs/QmarPWD4MQMKrh6aqBHo5n8PvqYocu6z6JczzkGwi9XHsm)
 
-Now you can fill in the next parameters:
+Next you can fill in the next parameters:
 
 * **Agreement title:** A title for the Covenant.
 * **Agreement content:** IPFS hash uploaded of the Covenant content, with the format `ipfs:<hash>`.
 
 ### Aragon Apps Initialization
 
-The rest of the parameters are the initial configuration for the [Dynamic Issuance](https://github.com/1Hive/issuance), [Conviction Voting](https://github.com/1Hive/conviction-voting-app), [Agreements](https://github.com/1Hive/agreement), and [Disputable Voting](https://github.com/1Hive/disputable-voting) Aragon apps. We recommend leaving the default configuration in most cases. To discuss this topic more in detail reach us on [Discord](https://discord.gg/d5XyGkA5uF).
+The rest of the parameters are the initial configuration for the [Dynamic Issuance](https://github.com/1Hive/issuance), [Conviction Voting](https://github.com/1Hive/conviction-voting-app), [Agreements](https://github.com/1Hive/agreement), and [Disputable Voting](https://github.com/1Hive/disputable-voting) Aragon apps. We recommend leaving the default configuration in most cases. To discuss this topic in more detail reach out to us on [Discord](https://discord.gg/d5XyGkA5uF).
 
 ```javascript
 { 
@@ -147,17 +147,17 @@ The rest of the parameters are the initial configuration for the [Dynamic Issuan
 }
 ```
 
-For more detailed explanations of these parameters [see here]().
+For more detailed explanations of these parameters [see here](../protocol-parameters/agreement.md).
 
 ## Script Execution
 
-Once you are happy with the parameters. Execute the following yarn command:
+Once you are happy with the parameters. Execute the following `yarn` command:
 
 ```text
 yarn newdao --network <network>
 ```
 
-May take a couple of minutes. You should expect an output similar to:
+This may take a couple of minutes. You should expect an output similar to:
 
 ```text
 ➜ npx hardhat run scripts/new-dao.ts --network rinkeby
@@ -190,7 +190,7 @@ Tx three completed.
 
 Now that you have deployed a new Garden on-chain you should add your own data and assets to the Gardens website. To do it, create a PR in the [`dao-list` repository](https://github.com/1Hive/dao-list).
 
-The format of the data you need to include:
+The format of the data you need to include looks as follows:
 
 ```javascript
 {
