@@ -1,5 +1,7 @@
 # General Resources
 
+* [Gardens landing page](https://gardens.1hive.org/)
+* [Gardens introductory post](https://gardens.substack.com/p/introducing-gardens)
 * [Gardens overview - original idea](https://forum.1hive.org/t/gardens-overview/32)
 * [Gardens based media publications](https://forum.1hive.org/t/buzz-gardens-based-media-publications/36)
 * [Gardens + NFTs](https://forum.1hive.org/t/gallery-gardens-nfts/35)
@@ -11,7 +13,6 @@
 * [Gardens repo](https://github.com/1Hive/gardens)
 * [A brief history of Conviction voting](https://michaelzargham.medium.com/a-brief-history-of-conviction-voting-ad4ca4eb4aee)
 * [What is 1Hive?](https://forum.1hive.org/t/together-we-thrive/1278)
-* [Gardens landing page](https://gardens.1hive.org/)
 
 
 
