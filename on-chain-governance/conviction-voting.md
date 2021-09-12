@@ -4,6 +4,10 @@ description: To signal support and allocate funds
 
 # Conviction Voting
 
+{% hint style="info" %}
+[See here](../protocol-parameters/disputable-conviction-voting.md) for the associated parameters
+{% endhint %}
+
 _Conviction voting is the heart of a Garden._ It allows folks to signal their preferences continuously rather than forcing them to “make a decision.” From the perspective of a community member, this is as easy as just showing up and supporting the things you care about.
 
 Under conviction voting, **the majority doesn’t need to achieve consensus on everything.** As such, we get real [proportional representation](https://en.wikipedia.org/wiki/Proportional_representation#Advantages_and_disadvantages). Community members can propose and support things they care about without fear that a whale will vote them down. In fact, there is no downvoting. **People with large stakes and strong opinions can’t suppress the community.** Rather than relying entirely on majority rule decision-making, resource allocation decisions are regulated by staking on proposals to accumulate conviction over time. This allows resources to be allocated fairly while minimizing the political and divisive process of coming to consensus on a single course of action.[**1**](garden-framework.md#notes)

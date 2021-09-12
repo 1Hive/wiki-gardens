@@ -4,9 +4,9 @@ description: 'To transform the DAO: changes to protocol parameters or smart cont
 
 # Tao Voting
 
-> Right now **there is no user interface for the creation of a Tao vote**. A technical user must prepare a transaction which creates a Tao vote. Its best practice for such transactions to be reviewed by many people publicly before they are submitted. 
->
-> We are working on a UI to allow anyone to be able to create a Tao vote. In the meantime, we are happy to guide non-technical users through the process.
+{% hint style="info" %}
+[See here](../protocol-parameters/disputable-voting.md) for the associated parameters
+{% endhint %}
 
 Tao voting \(aka decision voting\) is a special form of voting \(requiring community consensus around discrete, binary choice decisions\). It is used to update governance parameters \(metagovernance\), as well as anything that fundamentally changes or transforms the DAO's DNA.
 
@@ -15,6 +15,12 @@ From a design perspective, Gardens aims to minimise the need to make discrete de
 ## Process 
 
 Once a Tao vote is created it will show up in the frontend as a _decision._ 
+
+{% hint style="warning" %}
+Right now **there is no user interface for the creation of a Tao vote**. A technical user must prepare a transaction which creates a Tao vote. Its best practice for such transactions to be reviewed by many people publicly before they are submitted.   
+  
+We are working on a UI to allow anyone to be able to create a Tao vote. In the meantime, we are more than happy to guide non-technical users through the process.
+{% endhint %}
 
 Under the default initialisation parameters, Tao votes are open for 2 weeks. In order to pass there must be an **approval quorum** of at least 10 percent of the total supply voting in favour, and over 50% of voters in support.
 

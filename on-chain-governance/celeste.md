@@ -4,7 +4,9 @@ description: To protect values
 
 # Celeste
 
-> See[ here](https://1hive.gitbook.io/celeste/) for the Celeste documentation portal
+{% hint style="info" %}
+[See here](https://1hive.gitbook.io/celeste/) for the Celeste documentation portal
+{% endhint %}
 
 Celeste, serves as **the interface for a DAO’s shared values, beliefs, and hopes**. It provides a way to resolve subjective disputes, and to peacefully enforce the covenant.
 

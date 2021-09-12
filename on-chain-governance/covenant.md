@@ -4,6 +4,10 @@ description: To encode values
 
 # Covenant
 
+{% hint style="info" %}
+[See here](../protocol-parameters/agreement.md) for the associated parameters
+{% endhint %}
+
 You can think of the covenant as a constitution or **decentralised social contract** of sorts.
 
 On a practical level, a covenant is a document, stored on [IPFS](https://hackmd.io/KCS70fPRR9O0iXOLYCzK1w?view), which explains what a DAO is about in plain English. It establishes values, rules, and customs. And is used to protect the DAO from malicious actors _without_ sacrificing the agency of its members. It should be designed as an essential resource in moments of conflict and contextual reference for jurors \(Keepers\) to rule on a challenged proposal that has been escalated to court \(Celeste\).
