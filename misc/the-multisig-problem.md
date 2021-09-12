@@ -20,3 +20,5 @@ And even if we assume that this group is honest and will continue to remain so, 
 
 In sum, multisig governance increases the risk born by both multisig holders and token holders, and leads to a somewhat fragile, and rather centralised DAO.
 
+Gardens provides an [elegant solution](../on-chain-governance/garden-framework.md) to this problem
+
