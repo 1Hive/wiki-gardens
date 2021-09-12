@@ -4,7 +4,7 @@ description: For more structured discussions
 
 # Forum \(Discourse\)
 
-Discourse is quickly become the gold standard for more structured discussions amongst web3 communities.
+[Discourse](https://www.discourse.org/) is quickly become the gold standard for more structured discussions amongst web3 communities \(see the [1hive forum](https://forum.1hive.org/) for an example\).
 
 We expect communities to primarily used it as a discussion forum to share ideas and post/debate proposals.
 
@@ -22,7 +22,7 @@ Forum posts can be grouped by categories for easy searching.
 
 ## Place in the governance ecosystem
 
-
+> TODO
 
 ## Recommended reading 
 

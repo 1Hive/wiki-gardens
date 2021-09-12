@@ -6,7 +6,7 @@ description: >-
 
 # Introduction
 
-While effective on-chain governance indues the DAO with resilience, it is in Discord chats and forum debates that ideas for proposals are generated and developed through conversation and, at time, healthy disagreement.
+While effective on-chain governance indues the DAO with resilience, it is in[ Discord chats](social-spaces-discord.md) and [forum debates](forum-discourse.md) that ideas for [proposals](proposal-template.md) are generated and developed through conversation and, at time, healthy disagreement.
 
 The informal exchanges that unfold through these channels are key for growing engagement and participation. They are also essential to ensuring the community can come to the best possible decisions.
 

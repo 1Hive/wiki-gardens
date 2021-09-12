@@ -4,7 +4,7 @@ description: For more informal conversations
 
 # Social Spaces \(Discord\)
 
-Discord has become the de facto venue where people can learn about a protocol, meet community members and discover ways to participate in the network.
+[Discord](https://discord.com/) has become the de facto venue where people can learn about a protocol, meet community members and discover ways to participate in the network.
 
 We expect most Gardens to use it extensively.
 
@@ -24,7 +24,7 @@ Taken together, channels and categories allow you to shape the architecture of y
 
 ## Place in the governance ecosystem
 
-
+> TODO
 
 ## Recommended reading
 
