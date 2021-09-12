@@ -64,7 +64,7 @@
 * [On the Horizon](roadmap/on-the-horizon.md)
 * [Big Picture](roadmap/big-picture.md)
 
-## 🍄 Additional Resources
+## Additional Resources
 
 * [Talks and Videos](additional-resources/untitled.md)
 * [Further Reading](additional-resources/general-resources.md)
