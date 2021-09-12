@@ -34,7 +34,6 @@
 * [Create a Garden \(with scripts\)](garden-creators/create-a-garden-with-scripts.md)
 * [Governance Incentives](garden-creators/byot-garden-wrapping-incentive.md)
 * [Price Oracle](garden-creators/price-oracle.md)
-* [Supported Networks](garden-creators/launching-on-xdai-vs-arbitrum.md)
 
 ## ⚠️ Requirements
 
