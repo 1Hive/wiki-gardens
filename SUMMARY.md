@@ -64,12 +64,6 @@
 * [On the Horizon](roadmap/on-the-horizon.md)
 * [Big Picture](roadmap/big-picture.md)
 
-## Additional Resources
-
-* [Talks and Videos](additional-resources/untitled.md)
-* [Further Reading](additional-resources/general-resources.md)
-* [General Resources](additional-resources/general-resources-1.md)
-
 ## Misc
 
 * [Composability](misc/composability.md)
@@ -79,4 +73,10 @@
 * [Moving Beyond Naive Coin Voting Governance](misc/moving-beyond-naive-coin-voting-governance.md)
 * [The Road from Pre-DAO to DAO](misc/the-road-from-pre-dao-to-dao.md)
 * [A Day in the Life of a Daoist](misc/a-day-in-the-life-of-a-dao-member.md)
+
+## Additional Resources
+
+* [Talks and Videos](additional-resources/untitled.md)
+* [Further Reading](additional-resources/general-resources.md)
+* [General Resources](additional-resources/general-resources-1.md)
 
