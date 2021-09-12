@@ -6,7 +6,7 @@ description: >-
 
 # Governance Incentives
 
-For [Boboli Gardens](../background/garden-modes.md#boboli-gardens), a farming contract is deployed during creation. 
+For [Boboli Gardens](garden-modes.md#boboli-gardens), a farming contract is deployed during creation. 
 
 Anyone can deposit the original token, available for distribution within the Garden, to this farming contract.
 

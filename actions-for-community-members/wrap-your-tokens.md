@@ -6,7 +6,7 @@ description: >-
 
 # Wrap your Tokens
 
-> Note this page only applies to [Boboli](../background/garden-modes.md#bring-your-own-token-byot) Gardens.
+> Note this page only applies to [Boboli](../garden-creators/garden-modes.md#bring-your-own-token-byot) Gardens.
 
 In order to gain voting power over the shared resources, members of the community need to wrap their tokens.
 

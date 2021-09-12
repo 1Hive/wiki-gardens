@@ -1,4 +1,4 @@
-# A Day in the Life of Daoist
+# A Day in the Life of a Daoist
 
 > TODO
 
