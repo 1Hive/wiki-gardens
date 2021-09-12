@@ -38,6 +38,6 @@ The community creating the Garden is encouraged to:
 ## Technical Details
 
 1. The common pool funds are handled by an [Aragon Agent app](https://aragon.org/agent).
-2. Gardens accept s[everal configuration parameters]() to initialize them.
+2. Gardens accept s[everal configuration parameters](../protocol-parameters/agreement.md) to initialize them.
 3. Boboli Gardens have a [built-in reward system](../garden-creators/byot-garden-wrapping-incentive.md) to incentivize participation in governance.
 
