@@ -1,10 +1,10 @@
 # Covenant
 
 {% hint style="info" %}
-The covenant parameters are set in the Agreement app: an Aragon app used to define and enforce subjective rules that cannot be easily encoded in smart contracts.
+The [covenant](../on-chain-governance/covenant.md) parameters are set in the [Agreement app](https://github.com/1Hive/agreement): an Aragon app used to define and enforce subjective rules that cannot be easily encoded in smart contracts.
 {% endhint %}
 
-The [Agreement app](https://github.com/1Hive/agreement) parameters \(together with the 1hive defaults\) are:
+The parameters \(together with the 1hive defaults\) are:
 
 ```text
 "agreementTitle": "1Hive Community Covenant",

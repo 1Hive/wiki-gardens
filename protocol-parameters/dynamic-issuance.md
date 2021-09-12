@@ -1,10 +1,10 @@
 # Dynamic Issuance
 
 {% hint style="info" %}
-The dynamic issuance parameter are set in the [Dynamic Issuance app](https://github.com/1Hive/issuance-dynamic): an Aragon app used to increase and decrease token supply
+The [dynamic issuance](../issuance-policy/dynamic-issuance.md) parameter are set in the [Dynamic Issuance app](https://github.com/1Hive/issuance-dynamic): an Aragon app used to increase and decrease token supply
 {% endhint %}
 
-The Dynamic issuance app parameters \(together with the 1hive defaults\) are:
+The parameters \(together with the 1hive defaults\) are:
 
 ```javascript
 "issuanceTargetRatio": 0.3,

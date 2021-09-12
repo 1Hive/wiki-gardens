@@ -7,10 +7,10 @@ description: >-
 # Tao Voting
 
 {% hint style="info" %}
-The tao voting parameters are set in the [Disputable Voting app](https://github.com/1Hive/disputable-voting): an Aragon app used to collectively update smart contracts and protocol parameters.
+The [tao voting](../on-chain-governance/tao-voting.md) parameters are set in the [Disputable Voting app](https://github.com/1Hive/disputable-voting): an Aragon app used to collectively update smart contracts and protocol parameters.
 {% endhint %}
 
-The Disputable Voting app parameters \(together with the 1hive defaults\) are:
+The parameters \(together with the 1hive defaults\) are:
 
 ```text
 "voteMinAcceptanceQuorum": 0.1,
