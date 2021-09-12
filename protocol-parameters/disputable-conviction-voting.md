@@ -1,10 +1,8 @@
----
-description: >-
-  Aragon app used to gauge community sentiment and allocate funds from a shared
-  treasury
----
-
 # Conviction Voting
+
+{% hint style="info" %}
+The conviction voting parameters are set in the [Conviction Voting app](https://github.com/1Hive/conviction-voting-app): an Aragon app used to gauge community sentiment and allocate funds from a shared treasury
+{% endhint %}
 
 The Conviction Voting app parameters \(together with the 1hive defaults\) are:
 

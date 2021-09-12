@@ -23,7 +23,7 @@
 
 ## Protocol Parameters
 
-* [Agreement](protocol-parameters/agreement.md)
+* [Covenant](protocol-parameters/agreement.md)
 * [Conviction Voting](protocol-parameters/disputable-conviction-voting.md)
 * [Tao Voting](protocol-parameters/disputable-voting.md)
 * [Dynamic Issuance](protocol-parameters/dynamic-issuance.md)

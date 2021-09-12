@@ -1,12 +1,16 @@
 ---
 description: >-
-  Aragon app used to collectively update smart contracts and protocol parameters
-  (formerly called Disputable Voting)
+  Used to change protocol parameters or smart contract updates. Actions that
+  require making discrete, binary choice decisions via voting.
 ---
 
 # Tao Voting
 
-The [Tao Voting app](https://github.com/1Hive/disputable-voting) parameters \(together with the 1hive defaults\) are:
+{% hint style="info" %}
+The tao voting parameters are set in the [Disputable Voting app](https://github.com/1Hive/disputable-voting): an Aragon app used to collectively update smart contracts and protocol parameters.
+{% endhint %}
+
+The Disputable Voting app parameters \(together with the 1hive defaults\) are:
 
 ```text
 "voteMinAcceptanceQuorum": 0.1,
