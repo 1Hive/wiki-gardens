@@ -10,7 +10,7 @@ description: 'To transform the DAO: changes to protocol parameters or smart cont
 
 Decision voting is a special form of voting \(requiring community consensus around discrete, binary choice decisions\). It is used to update governance parameters \(metagovernance\), as well as anything that fundamentally changes or transforms the DAO's DNA.
 
-From a design perspective, Gardens aims to minimise the need to make discrete decisions, favouring bottom up decision making and local autonomy of participants.  As such Tao votes are not expected to be used for day to day operations or for determining strategic direction.
+From a design perspective, Gardens aims to minimise the need to make discrete decisions, favouring bottom up decision making and local autonomy of participants.  As such Decision votes are not expected to be used for day to day operations or for determining strategic direction.
 
 ## Process 
 
@@ -22,7 +22,7 @@ Right now **there is no user interface for the creation of a Tao vote**. A techn
 We are working on a UI to allow anyone to be able to create a Tao vote. In the meantime, we are more than happy to guide non-technical users through the process.
 {% endhint %}
 
-Under the default initialisation parameters, Tao votes are open for 2 weeks. In order to pass there must be an **approval quorum** of at least 10 percent of the total supply voting in favour, and over 50% of voters in support.
+Under the default initialisation parameters, Decision votes are open for 2 weeks. In order to pass there must be an **approval quorum** of at least 10 percent of the total supply voting in favour, and over 50% of voters in support.
 
  If a vote is approved, there is a 48 hour delay before the vote can be enacted, allowing people to react to the outcome and make decisions before the effects of the vote are realised. 
 
