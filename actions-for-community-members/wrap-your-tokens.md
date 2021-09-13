@@ -1,7 +1,7 @@
 ---
 description: >-
-  If you are bringing in an existing token, we wrap your token in a Minime
-  because the Garden needs some extra functions
+  If you are bringing in an existing token, we wrap your token in a Minime to
+  allow it to be used for voting
 ---
 
 # Wrap your Tokens
