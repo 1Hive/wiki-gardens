@@ -6,7 +6,7 @@ description: >-
 
 # Challenge a Proposal
 
-If you see a proposal that you think is not aligned with the values outlined in the Covenant, you can challenge the proposal. Challenging a funding proposal effectively blocks it from being executed until the challenge is resolved.
+If you see a proposal that you think is not aligned with the values outlined in your community's covenant, you can challenge the proposal. Challenging a funding proposal effectively blocks it from being executed until the challenge is resolved.
 
 Anyone can challenge a proposal if they have deposited enough funds \(usually a very small amount\) and submitted enough Honey \(HNY\) from their wallet to cover any initial dispute fees. To challenge a proposal, follow these steps:
 
