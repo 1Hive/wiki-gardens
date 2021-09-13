@@ -4,10 +4,12 @@ description: >-
   require making discrete, binary choice decisions via voting.
 ---
 
-# Tao Voting
+# Decision Voting
+
+
 
 {% hint style="info" %}
-The [tao voting](../on-chain-governance/tao-voting.md) parameters are set in the [Disputable Voting app](https://github.com/1Hive/disputable-voting): an Aragon app used to collectively update smart contracts and protocol parameters.
+The [Decision voting](../on-chain-governance/tao-voting.md) parameters are set in the [Disputable Voting app](https://github.com/1Hive/disputable-voting): an Aragon app used to collectively update smart contracts and protocol parameters.
 {% endhint %}
 
 The parameters \(together with the 1hive defaults\) are:

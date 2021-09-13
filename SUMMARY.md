@@ -29,7 +29,7 @@
 * [Covenant](on-chain-governance/covenant.md)
 * [Conviction Voting](on-chain-governance/conviction-voting.md)
 * [Celeste](on-chain-governance/celeste.md)
-* [Tao Voting](on-chain-governance/tao-voting.md)
+* [Decision Voting](on-chain-governance/tao-voting.md)
 
 ## Issuance policy
 
@@ -40,7 +40,7 @@
 
 * [Covenant](protocol-parameters/agreement.md)
 * [Conviction Voting](protocol-parameters/disputable-conviction-voting.md)
-* [Tao Voting](protocol-parameters/disputable-voting.md)
+* [Decision Voting](protocol-parameters/disputable-voting.md)
 * [Dynamic Issuance](protocol-parameters/dynamic-issuance.md)
 
 ## Off-chain governance
