@@ -4,11 +4,11 @@ Based on the [1hive](https://wiki.1hive.org/) model, Gardens is a framework for 
 
 {% embed url="https://twitter.com/Not3Lau\_Capital/status/1433081051006439430?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1433081051006439430%7Ctwgr%5E%7Ctwcon%5Es1\_&ref\_url=https%3A%2F%2Fcdn.iframe.ly%2FLSPcpTE%3Fapp%3D1" caption="Gardens is this but for DAOs" %}
 
-Communities can use Gardens to launch their own token or, if they prefer, to import a pre-existing ERC-20 token.
+Communities can use Gardens to[ launch their own](garden-creators/garden-modes.md#veneto-gardens) token or, if they prefer, to [import a pre-existing](garden-creators/garden-modes.md#boboli-gardens) ERC-20 token.
 
 From there, they can use whichever tools they prefer to coordinate: [chat rooms](off-chain-governance/social-spaces-discord.md), [forums](off-chain-governance/forum-discourse.md), etc. 
 
-The token will be used as a governance token for deciding [how funds are issued](on-chain-governance/garden-framework/conviction-voting.md) and how meta-governance [parameters are updated](on-chain-governance/garden-framework/decision-voting.md).
+The token will be used as a governance token for deciding [how funds are issued](on-chain-governance/garden-framework/conviction-voting.md) and how [meta-governance parameters](on-chain-governance/protocol-parameters/decision-voting.md) are [updated](on-chain-governance/garden-framework/decision-voting.md).
 
 In the beginning, we expect mainly software-based projects and online communities to create Gardens, but ultimately we hope this framework can be used for any cause in the public domain.
 
