@@ -6,8 +6,6 @@ description: >-
 
 # Decision Voting
 
-
-
 {% hint style="info" %}
 The [Decision voting](../on-chain-governance/decision-voting.md) parameters are set in the [Disputable Voting app](https://github.com/1Hive/disputable-voting): an Aragon app used to collectively update smart contracts and protocol parameters.
 {% endhint %}
@@ -42,7 +40,7 @@ Where:
 
 ## Recommendations
 
-Since there are only one set of voting parameters for all Gardens components, strong thresholds for passing proposals in TV are critical to ensure the Gardens integrity remains uncompromised. `voteSupportRequired` and `voteMinAcceptanceQuorum` are your main defensive parameters in this aspect.
+Since there are only one set of voting parameters for all Gardens components, strong thresholds for passing proposals in decision votes are critical to ensure the Gardens integrity remains uncompromised. `voteSupportRequired` and `voteMinAcceptanceQuorum` are your main defensive parameters in this aspect.
 
 The `delegatedVotingPeriodDays` should be short enough to leave room for Delegators across all time-zones to verify how their Delegates have voted, and veto if necessary. It is recommended to leave a difference of at least one full day between the `delegatedVotingPeriodDays` and the `voteDurationDays`.
 
@@ -52,5 +50,6 @@ The `voteExecutionDelayDays` should offer your members enough time to view and c
 
 ## More Resources
 
-[Quiet Ending](https://forum.1hive.org/t/tao-voting-quiet-ending-period-and-quiet-ending-extension/4224) [Delegation](https://forum.1hive.org/t/tao-voting-delegation/4225)
+[Quiet Ending](https://forum.1hive.org/t/tao-voting-quiet-ending-period-and-quiet-ending-extension/4224)  
+[Delegation](https://forum.1hive.org/t/tao-voting-delegation/4225)
 

@@ -51,7 +51,3 @@ To help inform your decisions, we highly encourage anyone interested in the topi
 
 Play around with it, if you have question or aren’t familiar with the tooling, you can [ask for guidance on our discord.](https://discord.gg/KTbHy6fSqx)
 
-
-
-
-

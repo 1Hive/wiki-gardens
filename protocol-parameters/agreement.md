@@ -36,7 +36,7 @@ Where:
 
 We recommend using symmetrical values for both the action and challenge amounts. This ensures it is just as easy to create a proposal as it is to challenge one.
 
-Defining a stable \(USD\) action and challenge amount brings with it important UX and security considerations. From a security point of view, it means the Garden relies on a price oracle \(an extra attack surface\). From a UX point of view, community members need to ensure the value is kept up to date - this requires regularly executing a transaction to update the action and challenge amounts \(note however that this can be incentivised\).
+Defining a stable \(USD\) action and challenge amount brings with it important UX and security considerations. From a security point of view, it means the Garden relies on a price oracle \(an extra attack surface\). From a UX point of view, community members need to ensure the value is kept up to date - this requires regularly executing a transaction to update the action and challenge amounts.
 
 On the other hand, without a stable action and challenge amount, you may find you have to update `proposalDeposit` and `challengeDeposit` using a decision vote at some point - this is more costly and can take many days to pass.
 
@@ -44,5 +44,5 @@ As such, we recommend thinking hard about whether it makes sense for you to laun
 
 #### A note on the price oracle
 
-Honeyswap inherits Uniswap's price accumulator. This means it uses a price accumulator for each pair which it stores once every 3 hours. The price the oracle gives is the average of these over the previous 24 hours. If the oracle misses being called in a 3 hours period you have to wait another 24 hours of it being called consistently every 3 hours for it to return a price. In sum, the attack vector to be aware of is your Honeyswap GDN/XDAI pair being manipulated consistently for at least 24 hours.
+Honeyswap inherits Uniswap's price accumulator. This means it uses a price accumulator for each pair which it stores once every 3 hours. The price the oracle gives is the average of these over the previous 24 hours. If the oracle misses being called in a 3 hour period you have to wait another 24 hours of it being called consistently every 3 hours for it to return a price. In sum, the attack vector to be aware of is your Honeyswap GDN/XDAI pair being manipulated consistently for at least 24 hours.
 

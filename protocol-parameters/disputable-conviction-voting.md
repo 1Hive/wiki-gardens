@@ -19,7 +19,7 @@ Where:
 
 `spendingLimit` sets the threshold formula to only allow proposals that request less than a `spendingLimit` proportion of the available funds from the common pool. In the default case, it is set to `0.1`, which means no proposal can request more than 10% of the funds from the common pool.
 
-`minimumConviction` is the minimum conviction required for small proposals. By requiring all proposals to have some minimum conviction to pass, we are able to prevent small proposals from spamming or draining the communal funding pool. In the default case, it is set to `0.025`, which means the required threshold for any proposal is at least 2.5% of the max conviction that the currently active staked tokens could accrue.
+`minimumConviction` is the minimum conviction required for small proposals. By requiring all proposals to have some minimum conviction to pass, we are able to prevent small proposals from spamming or draining the common pool. In the default case, it is set to `0.025`, which means the required threshold for any proposal is at least 2.5% of the max conviction that the currently active staked tokens could accrue.
 
 `minEffectiveStake` is the minimum percent of the token's current supply \(including the common pool\) that is used to calculate the conviction. If the actual active stake is below `minEffectiveStake`, then `minEffectiveStake` is used to calculate conviction voting required thresholds instead of active stake. In the default case, it is set to `0.2`,which means that the minimum percent of the token's current supply used to calculate conviction is 20%.
 
@@ -29,7 +29,7 @@ We can see that there is a minimum amount of conviction that must be reached for
 
 As such, we recommend that implementers take special care in their choice of `spendingLimit` \(% of total funds that can be requested by any one proposal\) and `minimumConviction` \(the minimum conviction required for small proposals to pass\) parameters, as these will have a high impact on your system design.
 
-The `convictionGrowthHours` effectively sets the pace of your Garden. How quickly decisions can be made are affected heavily by this parameter. If you want your DAO's funding scheme to be more agile then a lower value is recommended. If you prefer to have a more prolongated, assured process then a higher value is better suited.
+The `convictionGrowthHours` effectively sets the pace of your Garden. How quickly decisions can be made are affected heavily by this parameter. If you want your DAO's funding scheme to be more agile then a lower value is recommended. If you prefer to have a more prolonged, assured process then a higher value is better suited.
 
 ## More resources
 
