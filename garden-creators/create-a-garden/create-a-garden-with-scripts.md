@@ -37,7 +37,7 @@ If you would like to test on Rinkeby, use the [HNYT token](https://rinkeby.ether
 
 ## Configure Garden Parameters
 
-The Garden parameters are configured in a file with the name `params-<network>.json` where `<network>` is the network configured in the `hardhat.config.ts` file \(this is the network used to execute the deployment script during the Garden creation\).
+The Garden [parameters](../../on-chain-governance/protocol-parameters/) are configured in a file with the name `params-<network>.json` where `<network>` is the network configured in the `hardhat.config.ts` file \(this is the network used to execute the deployment script during the Garden creation\).
 
 The JSON file is formatted as follows:
 
