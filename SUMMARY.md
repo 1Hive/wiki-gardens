@@ -29,7 +29,7 @@
 * [Covenant](on-chain-governance/covenant.md)
 * [Conviction Voting](on-chain-governance/conviction-voting.md)
 * [Celeste](on-chain-governance/celeste.md)
-* [Decision Voting](on-chain-governance/tao-voting.md)
+* [Decision Voting](on-chain-governance/decision-voting.md)
 
 ## Issuance policy
 

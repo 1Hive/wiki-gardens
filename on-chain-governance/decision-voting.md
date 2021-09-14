@@ -42,7 +42,7 @@ Decision voting can be used to propose changes to the [Covenant](covenant.md).
 
 ### **Protocol parameters**
 
-Decision voting can be used to update the DAO's protocol parameters.
+Decision voting can be used to update the DAO's [protocol parameters](../protocol-parameters/agreement.md).
 
 ## Relationship with Dandelion voting
 
