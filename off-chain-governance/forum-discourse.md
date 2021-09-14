@@ -20,6 +20,13 @@ Note that Discourse [starts in “bootstrap mode”](https://meta.discourse.org/
 
 Forum posts can be grouped by categories for easy searching.
 
+Before creating a category, we recommend thinking through:
+
+* Why should people use this category? What is it for?
+* How exactly is this different than the other categories we already have?
+* What should topics in this category generally contain?
+* Do we need this category? Can we merge with another category, or subcategory?
+
 ## Place in the governance ecosystem
 
 > TODO
