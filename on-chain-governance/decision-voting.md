@@ -1,5 +1,5 @@
 ---
-description: Used to vote on changes to protocol parameters or smart contract updates
+description: To transform the DAO
 ---
 
 # Decision Voting
