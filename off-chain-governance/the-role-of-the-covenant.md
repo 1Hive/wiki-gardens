@@ -1,6 +1,6 @@
 # The Role of the Covenant
 
-You can use [the Covenant ](../on-chain-governance/covenant.md)to create behavioural expectations within Community spaces such as Discourse, and Discord.
+You can use [the Covenant ](../on-chain-governance/garden-framework/covenant.md)to create behavioural expectations within Community spaces such as Discourse, and Discord.
 
 For example, here's an extract from [1Hive's Covenant](https://wiki.1hive.org/community-covenant):
 

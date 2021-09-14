@@ -83,9 +83,9 @@ Let's unpack the above configuration.
 
 ### Type Of Garden
 
-First, you have to decide [which type of Garden is the best fit for you](garden-modes.md).
+First, you have to decide [which type of Garden is the best fit for you](../garden-modes.md).
 
-If you decide to deploy a[ Veneto Garden](garden-modes.md#veneto-gardens) you have to set:
+If you decide to deploy a[ Veneto Garden](../garden-modes.md#veneto-gardens) you have to set:
 
 * **Existing token:** must be the zero address `0x0000000000000000000000000000000000000000`
 * **Garden token name:** the name of the new token that will be created.
@@ -93,18 +93,18 @@ If you decide to deploy a[ Veneto Garden](garden-modes.md#veneto-gardens) you ha
 * **Seeds:** a list of addresses that will be minted the specified amount of tokens.
 * **Common pool amount:** the ****number of tokens that will be minted to the common pool.
 * **Honey token liquidity in xDai:** the honey deposit quantified in terms of xdai - must be at least 100 or the garden creation will revert.
-* **Garden token liquidity:** the ****initial number of tokens that will be used to [create a pair in Honeyswap](honeyswap.md) with HNY.
+* **Garden token liquidity:** the ****initial number of tokens that will be used to [create a pair in Honeyswap](../honeyswap.md) with HNY.
 
-If you decide to deploy a [Boboli Garden](garden-modes.md#boboli-gardens) you have to set:
+If you decide to deploy a [Boboli Garden](../garden-modes.md#boboli-gardens) you have to set:
 
 * **Existing token:** must be the address of the community's current ERC20 token.
 * **Garden token name:** the name of the new token received when wrapping the existent. We recommend following the convention: Existing `Token Name` -&gt; `Garden Token Name` eg `Honey` -&gt; `Garden Honey`
 * **Garden token symbol:** the symbol of the new token received when wrapping the existing token. We recommend following the convention: `TKN` -&gt; `gTKN`.
-* **Existing token liquidity:** the ****initial number of tokens that will be used to [create a pair in Honeyswap](honeyswap.md) with $100 worth of HNY.
+* **Existing token liquidity:** the ****initial number of tokens that will be used to [create a pair in Honeyswap](../honeyswap.md) with $100 worth of HNY.
 
 ### Community Covenant
 
-As we explain in the [three pillars](../on-chain-governance/garden-framework.md#community-covenant-to-encode-values), [the Covenant](../on-chain-governance/covenant.md) will be one of the pillars of your community. Take your time to encode your community's values in it. Once you have it ready you should upload it with a markdown format to the [IPFS network](https://ipfs.io). We recommend using a pinning service like [Pinata](https://pinata.cloud/) to keep the content pinned and accessible. 
+As we explain in the [three pillars](../../on-chain-governance/garden-framework/#community-covenant-to-encode-values), [the Covenant](../../on-chain-governance/garden-framework/covenant.md) will be one of the pillars of your community. Take your time to encode your community's values in it. Once you have it ready you should upload it with a markdown format to the [IPFS network](https://ipfs.io). We recommend using a pinning service like [Pinata](https://pinata.cloud/) to keep the content pinned and accessible. 
 
 Here are a couple of examples:
 
@@ -147,7 +147,7 @@ The rest of the parameters are the initial configuration for the [Dynamic Issuan
 }
 ```
 
-For more detailed explanations of these parameters [see here](../protocol-parameters/agreement.md).
+For more detailed explanations of these parameters [see here](../../on-chain-governance/protocol-parameters/agreement.md).
 
 ## Script Execution
 

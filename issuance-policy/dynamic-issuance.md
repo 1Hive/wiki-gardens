@@ -1,7 +1,7 @@
 # Dynamic Issuance
 
 {% hint style="info" %}
-[See here](../protocol-parameters/dynamic-issuance.md) for the associated parameters
+[See here](../on-chain-governance/protocol-parameters/dynamic-issuance.md) for the associated parameters
 {% endhint %}
 
 Veneto Gardens can choose a dynamic supply policy that can burn and issue tokens from the common pool automatically. The default parameters are inherited from [1hive's issuance policy](https://forum.1hive.org/t/dynamic-honey-supply-policy-proposal/2224).
@@ -41,7 +41,7 @@ From a governance perspective this is useful because Gardens have the ability to
 
 Gardens need to determine which values will be initially used for the `initial_ratio` ,`target_ratio` and `throttle` .
 
-See the[ dynamic issuance app](../protocol-parameters/dynamic-issuance.md) for more on these parameters.
+See the[ dynamic issuance app](../on-chain-governance/protocol-parameters/dynamic-issuance.md) for more on these parameters.
 
 ### Model Overview
 

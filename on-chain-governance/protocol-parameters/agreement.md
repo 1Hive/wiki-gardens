@@ -1,7 +1,7 @@
 # Covenant
 
 {% hint style="info" %}
-The [covenant](../on-chain-governance/covenant.md) parameters are set in the [Agreement app](https://github.com/1Hive/agreement): an Aragon app used to define and enforce subjective rules that cannot be easily encoded in smart contracts.
+The [covenant](../garden-framework/covenant.md) parameters are set in the [Agreement app](https://github.com/1Hive/agreement): an Aragon app used to define and enforce subjective rules that cannot be easily encoded in smart contracts.
 {% endhint %}
 
 The parameters \(together with the 1hive defaults\) are:

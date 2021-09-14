@@ -1,7 +1,7 @@
 # Dynamic Issuance
 
 {% hint style="info" %}
-The [dynamic issuance](../issuance-policy/dynamic-issuance.md) parameters are set in the [Dynamic Issuance app](https://github.com/1Hive/issuance-dynamic): an Aragon app used to increase and decrease token supply
+The [dynamic issuance](../../issuance-policy/dynamic-issuance.md) parameters are set in the [Dynamic Issuance app](https://github.com/1Hive/issuance-dynamic): an Aragon app used to increase and decrease token supply
 {% endhint %}
 
 The parameters \(together with the 1hive defaults\) are:

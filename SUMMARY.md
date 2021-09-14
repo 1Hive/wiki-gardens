@@ -5,10 +5,11 @@
 ## 🌱 Garden summoners <a id="garden-creators"></a>
 
 * [Types of Gardens](garden-creators/garden-modes.md)
-* [Create a Garden \(non-technical\)](garden-creators/untitled.md)
-* [Create a Garden \(with scripts\)](garden-creators/create-a-garden-with-scripts.md)
-* [Governance Incentives](garden-creators/byot-garden-wrapping-incentive.md)
+* [Create a Garden](garden-creators/create-a-garden/README.md)
+  * [Create a Garden \(non-technical\)](garden-creators/create-a-garden/untitled.md)
+  * [Create a Garden \(with scripts\)](garden-creators/create-a-garden/create-a-garden-with-scripts.md)
 * [Price Oracle](garden-creators/price-oracle.md)
+* [Governance Incentives](garden-creators/byot-garden-wrapping-incentive.md)
 * [Honeyswap Liquidity](garden-creators/honeyswap.md)
 
 ## 👩‍🌾 Community Members <a id="actions-for-community-members"></a>
@@ -25,23 +26,21 @@
 
 ## On-chain governance
 
-* [The Three Pillars](on-chain-governance/garden-framework.md)
-* [Covenant](on-chain-governance/covenant.md)
-* [Conviction Voting](on-chain-governance/conviction-voting.md)
-* [Celeste](on-chain-governance/celeste.md)
+* [The Three Pillars](on-chain-governance/garden-framework/README.md)
+  * [Conviction Voting](on-chain-governance/garden-framework/conviction-voting.md)
+  * [Covenant](on-chain-governance/garden-framework/covenant.md)
+  * [Celeste](on-chain-governance/garden-framework/celeste.md)
 * [Decision Voting](on-chain-governance/decision-voting.md)
+* [Protocol Parameters](on-chain-governance/protocol-parameters/README.md)
+  * [Conviction Voting](on-chain-governance/protocol-parameters/disputable-conviction-voting.md)
+  * [Covenant](on-chain-governance/protocol-parameters/agreement.md)
+  * [Decision Voting](on-chain-governance/protocol-parameters/decision-voting.md)
+  * [Dynamic Issuance](on-chain-governance/protocol-parameters/dynamic-issuance.md)
 
 ## Issuance policy
 
 * [Dynamic Issuance](issuance-policy/dynamic-issuance.md)
 * [Fixed Supply](issuance-policy/fixed-supply.md)
-
-## Protocol Parameters
-
-* [Covenant](protocol-parameters/agreement.md)
-* [Conviction Voting](protocol-parameters/disputable-conviction-voting.md)
-* [Decision Voting](protocol-parameters/decision-voting.md)
-* [Dynamic Issuance](protocol-parameters/dynamic-issuance.md)
 
 ## Off-chain governance
 

@@ -1,7 +1,7 @@
 # Conviction Voting
 
 {% hint style="info" %}
-The [conviction voting](../on-chain-governance/conviction-voting.md) parameters are set in the [Conviction Voting app](https://github.com/1Hive/conviction-voting-app): an Aragon app used to gauge community sentiment and allocate funds from a shared treasury
+The [conviction voting](../garden-framework/conviction-voting.md) parameters are set in the [Conviction Voting app](https://github.com/1Hive/conviction-voting-app): an Aragon app used to gauge community sentiment and allocate funds from a shared treasury
 {% endhint %}
 
 The parameters \(together with the 1hive defaults\) are:
