@@ -12,7 +12,7 @@ We expect communities to primarily used it as a discussion forum to share ideas 
 
 Discourse has four trust levels - basic, member, regular, and leader - which unlock progressively based on a community member's actions over time.
 
-![](../.gitbook/assets/screenshot-2021-09-11-at-13.07.52.png)
+![](../../.gitbook/assets/screenshot-2021-09-11-at-13.07.52.png)
 
 Note that Discourse [starts in “bootstrap mode”](https://meta.discourse.org/t/what-is-bootstrap-mode/58462) where the first 50 users who sign up are automatically granted TL1  to promote growth of the community via early adopters.
 

@@ -10,7 +10,7 @@ For [Boboli Gardens](garden-modes.md#boboli-gardens), a farming contract is depl
 
 Anyone can deposit the original token, available for distribution within the Garden, to this farming contract.
 
-This deposit can be claimed by users who have [wrapped their token](../actions-for-community-members/wrap-your-tokens.md) to earn governance rights in the Garden.
+This deposit can be claimed by users who have [wrapped their token](../actions-for-community-members/getting-started/wrap-your-tokens.md) to earn governance rights in the Garden.
 
 The farming contract deployed is a [modified Unipool contract](https://github.com/1Hive/unipool/blob/master/contracts/Unipool.sol). Each time a reward is deposited it will be distributed to users proportional to the amount they have wrapped and the amount of time it remains wrapped within the following reward period of 30 days. 
 

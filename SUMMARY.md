@@ -14,15 +14,18 @@
 
 ## 👩‍🌾 Community Members <a id="actions-for-community-members"></a>
 
-* [Create Your Account](actions-for-community-members/creating-your-account.md)
-* [Wrap your Tokens](actions-for-community-members/wrap-your-tokens.md)
-* [Sign the Covenant](actions-for-community-members/signing-the-covenant.md)
-* [Deposit Funds](actions-for-community-members/deposit-collateral.md)
-* [Support a Proposal](actions-for-community-members/supporting-proposals.md)
-* [Create a Proposal](actions-for-community-members/creating-a-new-proposal.md)
-* [Challenge a Proposal](actions-for-community-members/challenge-a-proposal.md)
-* [Settle a Dispute](actions-for-community-members/settle-a-proposal.md)
-* [Raise to Celeste](actions-for-community-members/raise-to-celeste.md)
+* [Getting started](actions-for-community-members/getting-started/README.md)
+  * [Create Your Account](actions-for-community-members/getting-started/creating-your-account.md)
+  * [Wrap your Tokens](actions-for-community-members/getting-started/wrap-your-tokens.md)
+  * [Sign the Covenant](actions-for-community-members/getting-started/signing-the-covenant.md)
+  * [Deposit Funds](actions-for-community-members/getting-started/deposit-collateral.md)
+* [Proposals](actions-for-community-members/proposals/README.md)
+  * [Support a Proposal](actions-for-community-members/proposals/supporting-proposals.md)
+  * [Create a Proposal](actions-for-community-members/proposals/creating-a-new-proposal.md)
+  * [Challenge a Proposal](actions-for-community-members/proposals/challenge-a-proposal.md)
+* [Disputes](actions-for-community-members/disputes/README.md)
+  * [Settle a Dispute](actions-for-community-members/disputes/settle-a-proposal.md)
+  * [Raise to Celeste](actions-for-community-members/disputes/raise-to-celeste.md)
 
 ## On-chain governance
 
@@ -45,9 +48,10 @@
 ## Off-chain governance
 
 * [Introduction](off-chain-governance/tips-on-creating-the-right-culture.md)
-* [Social Spaces \(Discord\)](off-chain-governance/social-spaces-discord.md)
-* [Forum \(Discourse\)](off-chain-governance/forum-discourse.md)
-* [Syncing Discord and Discourse](off-chain-governance/syncing-discord-and-discourse.md)
+* [Discord and Discourse](off-chain-governance/discord-and-discourse/README.md)
+  * [Social Spaces \(Discord\)](off-chain-governance/discord-and-discourse/social-spaces-discord.md)
+  * [Forum \(Discourse\)](off-chain-governance/discord-and-discourse/forum-discourse.md)
+  * [Syncing Discord and Discourse](off-chain-governance/discord-and-discourse/syncing-discord-and-discourse.md)
 * [The Role of the Covenant](off-chain-governance/the-role-of-the-covenant.md)
 * [Proposal template](off-chain-governance/proposal-template.md)
 * [How to Suggest a Proposal?](off-chain-governance/how-to-suggest-a-proposal.md)

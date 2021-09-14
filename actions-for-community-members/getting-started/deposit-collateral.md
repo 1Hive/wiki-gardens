@@ -10,9 +10,9 @@ Before you can create a proposal you are required to [Sign the Covenant](signing
 
 A dispute occurs when another community member challenges your proposal because they believe it violates the Community's values.
 
-**You will only forfeit your deposit if you lose the dispute** \(learn more about [dealing with challenged proposals](settle-a-proposal.md)\).
+**You will only forfeit your deposit if you lose the dispute** \(learn more about [dealing with challenged proposals](../disputes/settle-a-proposal.md)\).
 
 You can manage your deposited tokens in the Deposit Manager.
 
-![Deposit Manager screen](../.gitbook/assets/depositManager.png)
+![Deposit Manager screen](../../.gitbook/assets/depositManager.png)
 

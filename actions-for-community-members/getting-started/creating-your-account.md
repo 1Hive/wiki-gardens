@@ -12,13 +12,13 @@ When you create a digital identity with IDX it becomes associated with your Ethe
 
 To create your profile start by logging into Gardens with your Web3 wallet and click on your Ethereum address in the top right corner. Select `My Profile` from the drop down menu.
 
-![You can find your profile from almost any page in the Gardens](../.gitbook/assets/findMyProfile.png)
+![You can find your profile from almost any page in the Gardens](../../.gitbook/assets/findMyProfile.png)
 
 On your profile page click `Edit Profile` to begin filling in information to identify yourself. Add your name, a bit about yourself and your Twitter or Github handle if you choose. 
 
 > Note that you are free to fill everything in pseudonymously.
 
-![The Edit Profile screen](../.gitbook/assets/editProfile.png)
+![The Edit Profile screen](../../.gitbook/assets/editProfile.png)
 
 We also recommend using [BrightID](https://www.brightid.org/) to verify your humanity - it allows you to identify pseudonymously.
 

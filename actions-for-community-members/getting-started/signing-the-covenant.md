@@ -10,11 +10,11 @@ Anyone wanting to create a proposal has to sign their community's covenant. Any 
 
 The details are specific to each Garden. They include the IPFS hash of the content, and the binding actions that signing it will allow.
 
-![Covenant screen](../.gitbook/assets/screen-shot-2021-05-20-at-6.03.24-pm.png)
+![Covenant screen](../../.gitbook/assets/screen-shot-2021-05-20-at-6.03.24-pm.png)
 
 Take your time to review the content of the covenant. These involve the rules, mission, and values of your community. It will be enforced by [Celeste](https://wiki.1hive.org/projects/celeste) if a dispute arises.
 
-![1Hive&apos;s Covenant](../.gitbook/assets/screen-shot-2021-05-20-at-6.01.58-pm.png)
+![1Hive&apos;s Covenant](../../.gitbook/assets/screen-shot-2021-05-20-at-6.01.58-pm.png)
 
 Once you are ready proceed to sign the covenant and follow the instructions.
 
