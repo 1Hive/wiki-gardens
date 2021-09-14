@@ -40,7 +40,7 @@
 
 * [Covenant](protocol-parameters/agreement.md)
 * [Conviction Voting](protocol-parameters/disputable-conviction-voting.md)
-* [Decision Voting](protocol-parameters/disputable-voting.md)
+* [Decision Voting](protocol-parameters/decision-voting.md)
 * [Dynamic Issuance](protocol-parameters/dynamic-issuance.md)
 
 ## Off-chain governance

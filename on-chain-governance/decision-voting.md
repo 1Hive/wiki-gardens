@@ -5,7 +5,7 @@ description: 'To transform the DAO: changes to protocol parameters or smart cont
 # Decision Voting
 
 {% hint style="info" %}
-[See here](../protocol-parameters/disputable-voting.md) for the associated parameters
+[See here](../protocol-parameters/decision-voting.md) for the associated parameters
 {% endhint %}
 
 Decision voting is a special form of voting \(requiring community consensus around discrete, binary choice decisions\). It is used to update governance parameters \(metagovernance\), as well as anything that fundamentally changes or transforms the DAO's DNA.
