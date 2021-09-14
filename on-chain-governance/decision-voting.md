@@ -46,13 +46,17 @@ Decision voting can be used to update the DAO's [protocol parameters](../protoco
 
 ## Relationship with Dandelion voting
 
-Decision Voting is an upgraded version of Dandelion Voting with familiar parameters such as **Support Required**, **Minimum Quorum**, **Execution Delay** and **Vote Duration**.
+Decision Voting is an upgraded version of [Dandelion Voting](https://consensys.net/diligence/audits/2019/12/dandelion-organizations/): it has the same **Support Required**, **Minimum Quorum**, **Execution Delay** and **Vote Duration parameters.**
 
 Decision Voting also comes with two new concepts: **Delegation** and **Quiet Ending**.
 
 ### Delegation
 
-Token holders can delegate their Decision Voting powers to another member who will cast votes on their behalf, these members become delegates. Delegates can only vote during the Delegate Voting Period, which is a specified amount of time at the beginning of the voting process. If a delegate votes contrary to their delegator the delegator can veto the delegated vote and cast their vote themselves. Any voter, delegate or otherwise, can only vote ONCE. Vote delegation is not yet integrated into the UI.
+Token holders can delegate their Decision Voting powers to another member who will cast votes on their behalf, these members become delegates. Delegates can only vote during the Delegate Voting Period, which is a specified amount of time at the beginning of the voting process. If a delegate votes contrary to their delegator the delegator can veto the delegated vote and cast their vote themselves. Any voter, delegate or otherwise, can only vote ONCE. 
+
+{% hint style="info" %}
+Vote delegation is not yet available in the UI
+{% endhint %}
 
 ### Quiet ending
 
