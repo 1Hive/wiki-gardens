@@ -34,7 +34,7 @@ Gardens DAOs are made up of smart contracts that regulate how tokens are issued 
 
 Communities may find they have a need in the future to upgrade contracts or change parameters that influence how these contracts work.
 
-We expect that the need for such changes will become increasingly rare, and perhaps eventually become so rare they are deemed unnecessary, but for now it is seems prudent to retain the ability to upgrade contracts via decision votes. If and when the community deems appropriate a decision vote can be used to remove the capability of making any future decisions. 
+We expect that the need for such changes will become increasingly rare as a Garden matures, but the ability to upgrade contracts via decision votes will probably always be necessary. Note however, that there is nothing stopping a community from creating a decision vote to remove the capability of making any future decisions. 
 
 ### Covenant
 
