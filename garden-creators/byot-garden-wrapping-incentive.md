@@ -1,6 +1,6 @@
 ---
 description: >-
-  Boboli gardens can incentivise community members to wrap their tokens so that
+  Boboli gardens can incentivize community members to wrap their tokens so that
   they can participate in governance
 ---
 
@@ -22,7 +22,7 @@ To deposit a reward to the farming contract requires approving the deposit amoun
 Do not send tokens directly to this contract to create a reward as they will be lost forever. 
 {% endhint %}
 
-This process is currently not integrated into the Gardens UI but you can use other methods to approve and call this function e.g via Remix or Blockscout. You can only deposit the Gardens original token as a reward.
+This process is currently not integrated into the Gardens UI but you can use other methods to approve and call this function e.g via Remix or Blockscout. You can only deposit the Garden's original token as a reward.
 
 You can find the address of the farming contract in the subgraph of your Garden:
 

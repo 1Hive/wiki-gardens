@@ -4,7 +4,7 @@ description: Veneto & Boboli
 
 # Types of Gardens
 
-We currently support two types of Gardens: **Veneto** \(native token\)  and  **Boboli** \(imported token\) Gardens.
+We currently support two types of Gardens: **Veneto** \(native token\) and **Boboli** \(imported token\) Gardens.
 
 Each Garden has a Common Pool which holds the DAO's funds. These can be requested  through proposals. Your community can choose how to contribute funds to this pool.
 
@@ -21,7 +21,7 @@ The key features are:
 * A configurable amount of community tokens is minted and sent to the common pool.
 * A pre-distribution of initial tokens can be made by the garden summoner to accounts within the related community.
 * If you choose to go with a [Dynamic Issuance Policy](https://forum.1hive.org/t/dynamic-honey-supply-policy-proposal/2224), then this can be configured to mint and burn the community tokens relative to a specified threshold of tokens in the common pool.
-* If you choose to hold governance tokens in the Common Pool , then a configurable amount of these tokens is minted and sent to it.
+* If you choose to hold governance tokens in the Common Pool, then a configurable amount of these tokens is minted and sent to it.
 * A pre-distribution of initial tokens can be made by the garden summoner to accounts within the related community.
 
 ### Boboli Gardens

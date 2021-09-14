@@ -17,5 +17,5 @@ All pools have a 0.3% swap fee, of which 5/6 goes directly to Liquidity Provider
 
 These HNY buybacks are returned to the 1hive common pool, where they are used to fund more public goods for the 1hive community. This means there's a very real sense in which providing liquidity on Honeyswap helps contribute to 1hive's sustainability, which in turn allows us to continue funding public goods like Gardens.
 
-> **N.B.** We are committed to allowing anyone who is serious about creating a Garden to do so, regardless of financial ability. If this is requirement is a genuine financial blocker to you starting a Garden, please do get in touch with us - the first step is to create a forum post on the [1hive discourse](https://forum.1hive.org/) explaining why you wish to create a Garden, and why this is a blocker for you.
+> **N.B.** We are committed to allowing anyone who is serious about creating a Garden to do so, regardless of financial ability. If this requirement is a genuine financial blocker to you starting a Garden, please do get in touch with us - the first step is to create a forum post on the [1hive discourse](https://forum.1hive.org/) explaining why you wish to create a Garden, and why this is a blocker for you.
 

@@ -85,7 +85,7 @@ Let's unpack the above configuration.
 
 First, you have to decide [which type of Garden is the best fit for you](garden-modes.md).
 
-If you decide to deploy a[ Veneto Garden](garden-modes.md#veneto-gardens) you have to set the:
+If you decide to deploy a[ Veneto Garden](garden-modes.md#veneto-gardens) you have to set:
 
 * **Existing token:** must be the zero address `0x0000000000000000000000000000000000000000`
 * **Garden token name:** the name of the new token that will be created.
@@ -95,7 +95,7 @@ If you decide to deploy a[ Veneto Garden](garden-modes.md#veneto-gardens) you ha
 * **Honey token liquidity in xDai:** the honey deposit quantified in terms of xdai - must be at least 100 or the garden creation will revert.
 * **Garden token liquidity:** the ****initial number of tokens that will be used to [create a pair in Honeyswap](honeyswap.md) with HNY.
 
-If you decide to deploy a [Boboli Garden](garden-modes.md#boboli-gardens) you have to choose:
+If you decide to deploy a [Boboli Garden](garden-modes.md#boboli-gardens) you have to set:
 
 * **Existing token:** must be the address of the community's current ERC20 token.
 * **Garden token name:** the name of the new token received when wrapping the existent. We recommend following the convention: Existing `Token Name` -&gt; `Garden Token Name` eg `Honey` -&gt; `Garden Honey`
