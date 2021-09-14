@@ -7,7 +7,7 @@ description: >-
 # Decision Voting
 
 {% hint style="info" %}
-The [Decision voting](../decision-voting.md) parameters are set in the [Disputable Voting app](https://github.com/1Hive/disputable-voting): an Aragon app used to collectively update smart contracts and protocol parameters.
+The [Decision voting](../garden-framework/decision-voting.md) parameters are set in the [Disputable Voting app](https://github.com/1Hive/disputable-voting): an Aragon app used to collectively update smart contracts and protocol parameters.
 {% endhint %}
 
 The parameters \(together with the 1hive defaults\) are:

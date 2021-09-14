@@ -26,11 +26,11 @@
 
 ## On-chain governance
 
-* [The Three Pillars](on-chain-governance/garden-framework/README.md)
+* [The Four Pillars](on-chain-governance/garden-framework/README.md)
   * [Conviction Voting](on-chain-governance/garden-framework/conviction-voting.md)
   * [Covenant](on-chain-governance/garden-framework/covenant.md)
   * [Celeste](on-chain-governance/garden-framework/celeste.md)
-* [Decision Voting](on-chain-governance/decision-voting.md)
+  * [Decision Voting](on-chain-governance/garden-framework/decision-voting.md)
 * [Protocol Parameters](on-chain-governance/protocol-parameters/README.md)
   * [Conviction Voting](on-chain-governance/protocol-parameters/disputable-conviction-voting.md)
   * [Covenant](on-chain-governance/protocol-parameters/agreement.md)

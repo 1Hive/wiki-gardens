@@ -5,7 +5,7 @@ description: To transform the DAO
 # Decision Voting
 
 {% hint style="info" %}
-[See here](protocol-parameters/decision-voting.md) for the associated parameters
+[See here](../protocol-parameters/decision-voting.md) for the associated parameters
 {% endhint %}
 
 Decision voting is a special form of voting \(requiring community consensus around discrete, binary choice decisions\). It is used to update governance parameters \(metagovernance\), as well as anything that fundamentally changes or transforms the DAO's DNA.
@@ -38,11 +38,11 @@ We expect that the need for such changes will become increasingly rare as a Gard
 
 ### Covenant
 
-Decision voting can be used to propose changes to the [Covenant](garden-framework/covenant.md).
+Decision voting can be used to propose changes to the [Covenant](covenant.md).
 
 ### **Protocol parameters**
 
-Decision voting can be used to update the DAO's [protocol parameters](protocol-parameters/agreement.md).
+Decision voting can be used to update the DAO's [protocol parameters](../protocol-parameters/agreement.md).
 
 ## Relationship with Dandelion voting
 
