@@ -64,19 +64,15 @@
 * [On the Horizon](roadmap/on-the-horizon.md)
 * [Big Picture](roadmap/big-picture.md)
 
-## Misc
-
-* [Composability](misc/composability.md)
-* [Sufficient Decentralizion](misc/sufficient-decentralizion.md)
-* [The Multisig Problem](misc/the-multisig-problem.md)
-* [The Funding Allocation Problem](misc/solving-the-funding-allocation-problem.md)
-* [Moving Beyond Naive Coin Voting Governance](misc/moving-beyond-naive-coin-voting-governance.md)
-* [The Road from Pre-DAO to DAO](misc/the-road-from-pre-dao-to-dao.md)
-* [A Day in the Life of a community member](misc/a-day-in-the-life-of-a-dao-member.md)
-
 ## Additional Resources
 
 * [Talks and Videos](additional-resources/untitled.md)
 * [Further Reading](additional-resources/general-resources.md)
 * [General Resources](additional-resources/general-resources-1.md)
+* [Philosophy](additional-resources/philosophy/README.md)
+  * [Composability](additional-resources/philosophy/composability.md)
+  * [Sufficient Decentralizion](additional-resources/philosophy/sufficient-decentralizion.md)
+  * [The Multisig Problem](additional-resources/philosophy/the-multisig-problem.md)
+  * [The Funding Allocation Problem](additional-resources/philosophy/solving-the-funding-allocation-problem.md)
+  * [Moving Beyond Naive Coin Voting Governance](additional-resources/philosophy/moving-beyond-naive-coin-voting-governance.md)
 
