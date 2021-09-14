@@ -16,5 +16,3 @@ In particular, it should be rare for a proposal to be put forward to a vote with
 
 * [Uniswap research report: Discord, Governance, Community](https://www.notion.so/Uniswap-Research-Report-Discord-Governance-Community-eb545f60b0ba4c30af066ca1a855e0fe)
 
-
-

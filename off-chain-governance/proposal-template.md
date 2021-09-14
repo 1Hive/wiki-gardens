@@ -1,7 +1,7 @@
 ---
 description: >-
-  Template used by 1hive - Proposals are tagged with the Proposal category and
-  posted in the Forum
+  Conviction Voting Proposal Template used by 1hive - Proposals are tagged with
+  the Proposal category and posted in the Forum
 ---
 
 # Proposal template
