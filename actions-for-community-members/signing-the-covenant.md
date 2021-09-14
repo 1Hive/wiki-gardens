@@ -1,12 +1,12 @@
 ---
 description: >-
-  Every community member needs to sign a community covenant - which is
+  Every community member has to abide by their community's covenant - which is
   equivalent to a community's social contract / constitution
 ---
 
 # Sign the Covenant
 
-Anyone willing to create a proposal has to abide by their community's covenant. Any proposal which violates the spirit of the covenant can be challenged and taken to [Celeste](https://1hive.gitbook.io/celeste/).
+Anyone wanting to create a proposal has to sign their community's covenant. Any proposal which violates the spirit of the covenant can be challenged and disputed in [Celeste](https://1hive.gitbook.io/celeste/).
 
 The details are specific to each Garden. They include the IPFS hash of the content, and the binding actions that signing it will allow.
 
