@@ -16,7 +16,7 @@ To create your profile start by logging into Gardens with your Web3 wallet and c
 
 On your profile page click `Edit Profile` to begin filling in information to identify yourself. Add your name, a bit about yourself and your Twitter or Github handle if you choose. 
 
-You are free to fill everything in pseudonymously but we strongly encourage you to leave a valid email address to notify you of any important events or actions required in your Garden.
+> Note that you are free to fill everything in pseudonymously.
 
 ![The Edit Profile screen](../.gitbook/assets/editProfile.png)
 
