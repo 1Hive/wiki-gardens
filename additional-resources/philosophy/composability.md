@@ -1,6 +1,8 @@
-# Composability
+---
+description: Gardens are composable!
+---
 
-Gardens are composable! 
+# Composability
 
 You can have a main Garden as the core of an ecosystem, but then also spin up derivative Gardens that use the tokens of the main DAO as the collateral/currency for the derivative DAOs. 
 
