@@ -1,7 +1,7 @@
 ---
 description: >-
   Gardens offer a significant improvement over more naive on-chain voting
-  systems.
+  systems
 ---
 
 # Moving Beyond Naive Coin Voting Governance
