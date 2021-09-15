@@ -1,3 +1,7 @@
+---
+description: These parameters are set in the Aragon Conviction Voting app
+---
+
 # Conviction Voting
 
 {% hint style="info" %}

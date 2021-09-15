@@ -1,7 +1,5 @@
 ---
-description: >-
-  Used to change protocol parameters or smart contract updates. Actions that
-  require making discrete, binary choice decisions via voting.
+description: These parameters are set in the Aragon Disputable Voting app
 ---
 
 # Decision Voting

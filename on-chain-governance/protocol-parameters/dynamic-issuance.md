@@ -1,3 +1,7 @@
+---
+description: These parameters are set in the Aragon Dynamic Issuance App
+---
+
 # Dynamic Issuance
 
 {% hint style="info" %}

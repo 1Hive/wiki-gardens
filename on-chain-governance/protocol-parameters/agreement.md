@@ -1,3 +1,7 @@
+---
+description: These parameters are set in the Aragon Agreement app
+---
+
 # Covenant
 
 {% hint style="info" %}
