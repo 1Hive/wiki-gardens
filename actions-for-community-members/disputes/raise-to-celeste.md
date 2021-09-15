@@ -1,3 +1,7 @@
+---
+description: How to escalate a dispute to a decentralised court
+---
+
 # Raise to Celeste
 
 If you're proposal has been challenged you have two options, either [settle the dispute](settle-a-proposal.md) or raise it to Celeste. We will go over the process of raising a dispute to [Celeste](https://wiki.1hive.org/projects/celeste) in this article.

@@ -1,3 +1,7 @@
+---
+description: How to resolve a dispute before it gets taken to a decentralised court
+---
+
 # Settle a Dispute
 
 If a community member challenges a proposal you've made, you'll be able to see this in the Deposit Manager view -- the status of the proposal will be marked as `Challenged`.
