@@ -8,7 +8,7 @@ Communities can use Gardens to[ launch their own](garden-creators/garden-modes.m
 
 From there, they can use whichever tools they prefer to coordinate: [chat rooms](off-chain-governance/discord-and-discourse/social-spaces-discord.md), [forums](off-chain-governance/discord-and-discourse/forum-discourse.md), etc. 
 
-The token will be used as a governance token for deciding [how funds are issued](on-chain-governance/garden-framework/conviction-voting.md) and how [meta-governance parameters](on-chain-governance/protocol-parameters/decision-voting.md) are [updated](on-chain-governance/garden-framework/decision-voting.md).
+The token will be used as a governance token for deciding [how funds are issued](on-chain-governance/garden-framework/conviction-voting.md) and how [governance parameters](on-chain-governance/protocol-parameters/decision-voting.md) are [updated](on-chain-governance/garden-framework/decision-voting.md).
 
 In the beginning, we expect mainly software-based projects and online communities to create Gardens, but ultimately we hope this framework can be used for any cause in the public domain.
 
