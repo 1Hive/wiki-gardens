@@ -2,7 +2,11 @@
 
 If you're proposal has been challenged you have two options, either [settle the dispute](settle-a-proposal.md) or raise it to Celeste. We will go over the process of raising a dispute to [Celeste](https://wiki.1hive.org/projects/celeste) in this article.
 
-Looking at your challenged proposal on the right side click on `Raise to Celeste`.
+Looking at your challenged proposal on the right side click on `Raise to Celeste`.   
+
+
+  
+**Take note** that you have a limited amount of time to choose your course of action. The remaining time left can be found under `Settlement Period`.  If you don't take any action before the time runs out then part or all of your proposal deposit will be forfeit to the challenger.
 
 ![](../../.gitbook/assets/viewChallenge%20%281%29.png)
 
