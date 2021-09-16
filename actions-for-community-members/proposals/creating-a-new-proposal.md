@@ -4,7 +4,7 @@ description: You only need a small amount of funds in order to be able to create
 
 # Create a Proposal
 
-There are two types of proposals: _**Suggestion**_ and _**Funding**_.  Learn more about each to decide which fits the proposal you wish to make.
+There are two types of proposals: _**Suggestion**_ and _**Funding**_. Learn more about each to decide which fits the proposal you wish to make.
 
 ### Suggestion
 
@@ -28,12 +28,11 @@ In these instances a more traditional voting process is used, where a discrete a
 
 ## Make a Proposal
 
-Before you create a proposal make sure you [Sign the Covenant](../getting-started/signing-the-covenant.md) and [Deposit tokens](../getting-started/deposit-collateral.md) \(you won't be able to create a proposal without doing so\).   
-  
-
+Before you create a proposal make sure you [Sign the Covenant](../getting-started/signing-the-covenant.md) and [Deposit tokens](../getting-started/deposit-collateral.md) \(you won't be able to create a proposal without doing so\).
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
+{% hint style="info" %}
 
 
 The **Proposal Desposit** is an amount of tokens set by whomever created your Gardens, it is required to stake some tokens as collateral to make a proposal. This amount is taken from the tokens you have already deposited using the Deposit Manager. Backing proposals with collateral ensures proposals are quality and have some amount of seriousness behind them. Deposited collateral can be lost in three ways:
@@ -41,10 +40,11 @@ The **Proposal Desposit** is an amount of tokens set by whomever created your Ga
 * Not responding to your challenged proposal within the Settlement Period.
 * Accepting a settlement after being challenged.
 * Keepers ruling against your proposal after it was raised to Celeste.
+{% endhint %}
 
-You'll also need to have posted your proposal on your community's forum so other members can leave feedback and comments. You will 
+You'll also need to have posted your proposal on your community's forum so other members can leave feedback and comments.
 
-Once you've completed those first steps, from the homepage of your Gardens on the right side click `Create proposal.` 
+Once you've completed those first steps, from the homepage of your Gardens on the right side click `Create proposal.`
 
 ![](../../.gitbook/assets/createProposal.png)
 
@@ -52,7 +52,7 @@ From here you'll need to fill in the details for your post. Include a descriptiv
 
 ![](../../.gitbook/assets/proposalForm.png)
 
-Double-check your information, it will be recorded on the blockchain and cannot be edited. Click `Continue` when everything looks good. From there you'll need to sign the transaction to submit your proposal to the blockchain.  It may take a couple moments for the blockchain to update, when that's finished you'll be able to see your proposal live on your Garden!
+Double-check your information, it will be recorded on the blockchain and cannot be edited. Click `Continue` when everything looks good. From there you'll need to sign the transaction to submit your proposal to the blockchain. It may take a couple moments for the blockchain to update, when that's finished you'll be able to see your proposal live on your Garden!
 
 ![](../../.gitbook/assets/image.png)
 
