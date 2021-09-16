@@ -35,11 +35,11 @@ Before you create a proposal make sure you [Sign the Covenant](../getting-starte
 {% hint style="info" %}
 ## What is the Proposal Deposit?
 
-The **Proposal Desposit** is an amount of tokens set by whomever created your Gardens, it is required to stake some tokens as collateral to make a proposal. This amount is taken from the tokens you have already deposited using the Deposit Manager. Backing proposals with collateral ensures proposals are quality and have some amount of seriousness behind them. Deposited collateral can be lost in three ways:
+The **Proposal Desposit** is an amount of tokens set by the _Garden Summoner_, it is required to stake some tokens as collateral to make a proposal. This amount is taken from the tokens you have already deposited using the Deposit Manager. Backing proposals with collateral ensures proposals are quality and have some amount of seriousness behind them. Deposited collateral can be lost in three ways:
 
-* Not responding to your challenged proposal within the Settlement Period.
+* Not responding to your challenged proposal within the _Settlement Period_.
 * Accepting a settlement after being challenged.
-* Keepers ruling against your proposal after it was raised to Celeste.
+* [Keepers](https://1hive.gitbook.io/celeste/key-concepts#keepers) ruling against your proposal after it was raised to Celeste.
 {% endhint %}
 
 You'll also need to have posted your proposal on your community's forum so other members can leave feedback and comments.
