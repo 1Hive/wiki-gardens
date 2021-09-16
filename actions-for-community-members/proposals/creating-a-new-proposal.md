@@ -33,7 +33,7 @@ Before you create a proposal make sure you [Sign the Covenant](../getting-starte
 ![](../../.gitbook/assets/image%20%282%29.png)
 
 {% hint style="info" %}
-
+## What is the Proposal Deposit?
 
 The **Proposal Desposit** is an amount of tokens set by whomever created your Gardens, it is required to stake some tokens as collateral to make a proposal. This amount is taken from the tokens you have already deposited using the Deposit Manager. Backing proposals with collateral ensures proposals are quality and have some amount of seriousness behind them. Deposited collateral can be lost in three ways:
 
