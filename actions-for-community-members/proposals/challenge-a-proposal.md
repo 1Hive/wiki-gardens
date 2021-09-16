@@ -21,14 +21,14 @@ Anyone can challenge a proposal if they have deposited enough tokens \(usually a
 3. If you have deposited enough funds and have enough HNY in your wallet to cover any dispute fees you should be able to proceed from here. If so, click _Continue_.
 
 ![](../../.gitbook/assets/challengeRequirements2.png)
-
+<div id="challenge-deposit">
 The **Challenge Desposit** is an amount of tokens set by whomever created your Gardens, it is required to stake some tokens as collateral to challenge a proposal. This amount is taken from the tokens you have already deposited using the Deposit Manager. Backing challenges with collateral  helps to ensure they have some amount of seriousness behind them. The Challenge Deposit can be forfeit in the case of Keepers ruling against your challenge, if the proposal was raised to Celeste.
-
+</div>
+<div id="settlement-offer">
 4. Choose the **Settlement Offer**, this is the amount of tokens you will receive in the case that the proposal creator accepts a settlement. The settlement amount cannot be higher than the proposal deposit. Write out your argument to elaborate on why you think this proposal should be taken down. Once all this is set hit `Create transaction`.
-
+</div>
 ![Disclaimer: This text is for demonstration purposes. Neither 1hive or Gardens has an official stance on NASCAR, yet.](../../.gitbook/assets/challengeForm.png)
 
 5. View confirmation of your challenge on the proposal's page.
 
 ![](../../.gitbook/assets/challengeConfirmation.png)
-
