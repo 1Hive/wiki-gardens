@@ -10,7 +10,7 @@ If a community member challenges a proposal you've made, you'll be able to see t
 
 Click on the proposal in question. You should see that you are able to either accept a settlement or raise the dispute to Celeste.  
   
-**Take note** that you have a limited amount of time to choose your course of action. The remaining time left can be found under `SETTLEMENT PERIOD`.  If you don't take any action before the time runs out then part or all of your proposal deposit will be forfeit to the challenger and your proposal will be taken down.  
+**Take note** that you have a limited amount of time to choose your course of action. The remaining time left can be found under **`SETTLEMENT PERIOD`**.  If you don't take any action before the time runs out then part or all of your proposal deposit will be forfeit to the challenger and your proposal will be taken down.  
 
 ![Accept Settlement or Raise to Celeste, the choice is yours.](../../.gitbook/assets/challengedProposal.png)
 
