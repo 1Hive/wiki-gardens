@@ -2,7 +2,7 @@
 
 Now that you have deployed a new Garden on-chain you should add your own data and assets to the Gardens website. To do it, create a PR in the [`dao-list` repository](https://github.com/1Hive/dao-list).
 
-You need to add your Garden details on the `<network>.json` file depending of the network your Garden was deployed. The format of the data you need to include looks as follows:
+You need to add your Garden details on the `<network>.json` file depending on the network your Garden was deployed. The format of the data you need to include looks as follows:
 
 ```javascript
 {
@@ -60,8 +60,8 @@ Where:
 * **Address:** `Gardens DAO` address showed during the deployment script execution.
 * **Name**: `Garden DAO` name.
 * **Descriptions**: a brief description of the community.
-* **TokenLogo**:  an optional asset to display the token symbol logo.
-* **Wrappable token:** an optional asset of \`Boboli GArd`oboli Gardens` to display the token symbol logo.
+* **TokenLogo**:  an optional asset to display the token logo of the Garden.
+* **Wrappable token:** an optional asset for`Boboli Gardens`to display the pre-existing ERC-20 token logo.
 * **Logo:** an optional asset to display the community logo.
 * **LogoType:** an optional asset used in the header, to display the community logotype.
 * **Forum**: an optional link to the forum where proposals will be discussed. Defaults to [1Hive forum](https://forum.1hive.org).
