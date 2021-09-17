@@ -17,7 +17,7 @@ In order to ensure the price oracle is called consistently there is a [centralis
 
 The price oracle update function is incentivised: it pays out 2% of the contract's balance of the Gardens token \(if it holds any\) to each successful caller of the `update()` function. 
 
-In the future the Gardens UI will include a button prompting users to update the price oracle once every 3 hours - we expect that in most cases this should be enough to keep the oracle up to date without the centralised service.
+In the future, the Gardens UI will include a button prompting users to update the price oracle once every 3 hours - we expect that in most cases this should be enough to keep the oracle up to date without the centralised service.
 
 You can find the address of the price oracle contract in the subgraph of your Garden:
 
