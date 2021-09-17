@@ -30,7 +30,7 @@ The **Challenge Desposit** is an amount of tokens set by the _Garden Summoner_, 
 
 5. Choose the **Settlement Offer**, this is the amount of tokens you will receive in the case that the proposal creator accepts a settlement. The settlement amount cannot be higher than the proposal deposit. Write out your argument to elaborate on why you think this proposal should be taken down. Once all this is set hit `Create transaction`.
 
-![Disclaimer: This text is for demonstration purposes. Neither 1hive or Gardens has an official stance on NASCAR, yet.](../../.gitbook/assets/challengeForm.png)
+![This text is for demonstration purposes. Neither 1hive nor Gardens has an official stance on NASCAR.. yet.](../../.gitbook/assets/challengeForm.png)
 
 6. View confirmation of your challenge on the proposal's page.
 

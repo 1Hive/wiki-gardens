@@ -20,7 +20,7 @@ When your proposal has been challenged you have a limited amount of time to choo
 
 Click on _Accept settlement_ to view the challenger's argument
 
-![](../../.gitbook/assets/acceptSettlement.png)
+![This text is for demonstration purposes. Neither 1hive nor Gardens has an official stance on NASCAR.. yet.](../../.gitbook/assets/image%20%283%29.png)
 
 ### Settling 
 
