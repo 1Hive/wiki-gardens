@@ -1,7 +1,5 @@
 # Create Boboli Garden
 
-## Script Execution
-
 The Garden [parameters](../../../on-chain-governance/protocol-parameters/) are configured in a file with the name `params-boboli.json`.
 
 The JSON file is formatted as follows:

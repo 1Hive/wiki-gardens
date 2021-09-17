@@ -1,7 +1,5 @@
 # Create Veneto Garden
 
-## Script Execution
-
 The Garden [parameters](../../../on-chain-governance/protocol-parameters/) are configured in a file with the name `params-veneto.json`.
 
 The JSON file is formatted as follows:
