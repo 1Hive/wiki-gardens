@@ -1,7 +1,7 @@
 ---
 description: >-
-  If you are bringing in an existing token, we wrap your token in a MiniMeToken
-  to allow it to be used for voting
+  If you are bringing in an existing token, we wrap it to give you special
+  governance features.
 ---
 
 # Wrap your Tokens
@@ -18,5 +18,5 @@ Click the **Wrap** button and choose the amount of tokens you want to wrap.
 
 ![Choose how many tokens you wish to wrap](../../.gitbook/assets/wrapTokens.png)
 
-After that you'll need to sign two transactions, one to allow Gardens to use your AGAVE and another to perform the token wrapping. Once the transactions are signed you are ready to use your wrapped tokens to support existing proposals. 🎉
+After that you'll need to sign two transactions, one to allow the Garden to use your tokens and another to perform the token wrapping. Once the transactions are signed you are ready to use your wrapped tokens to support existing proposals. 🎉
 
