@@ -4,7 +4,7 @@ description: 'The longer you stake your tokens on a proposal, the more support i
 
 # Support a Proposal
 
-If you are a member of a [Boboli \(Imported\) Token Garden](../../garden-creators/garden-modes.md#pre-existing-token-gardens), please make sure you have [wrapped](../getting-started/wrap-your-tokens.md) a portion of your tokens. You won't be able to use unwrapped tokens to support proposals.
+If you are a member of a [Boboli Garden](../../garden-creators/garden-modes.md#pre-existing-token-gardens), please make sure you have [wrapped](../getting-started/wrap-your-tokens.md) a portion of your tokens. You won't be able to use unwrapped tokens to support proposals.
 
 Supporting a proposal is equivalent to staking your token on that proposal. It provides a way to signal the strength of your conviction -- the more you use to support, and the longer you support a proposal for, the greater the conviction.
 
